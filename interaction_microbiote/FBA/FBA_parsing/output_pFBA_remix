@@ -1,0 +1,2884 @@
+PID: 10326, Process Name: Process-31, Thread Name: MainThread
+merged_community/list_community.txt
+PID: 10300, Process Name: Process-5, Thread Name: MainThread
+merged_community/lactobacillus_amylovorus.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+h2o_e         1e+03    nh4_e       1e+03  Growth  48.7
+arg__L_e      1e+03    pyr_e       1e+03
+glycogen_e    1e+03    orn_e     986
+id3acald_e  948        trp__L_e  946
+o2_e        292        co2_e     610
+asp__L_e     39.4      lac__L_e  470
+ala__D_e     38.4      h_e       400
+gly_e        27.6      acald_e   356
+3ump_e       27        ura_e      11.4
+gln__L_e     21.8
+leu__L_e     21.2
+val__L_e     20
+lys__L_e     16.2
+ser__L_e     15.8
+ile__L_e     13.7
+gua_e        11.4
+pro__L_e     10.4
+6pgc_e        9.74
+3amp_e        9.63
+k_e           9.2
+phe__L_e      8.74
+glu__L_e      7.69
+met__L_e      7.26
+tyr__L_e      6.5
+his__L_e      4.47
+h2s_e         4.35
+fe2_e         0.685
+mg2_e         0.409
+ca2_e         0.245
+cl_e          0.245
+so4_e         0.205
+nmn_e         0.107
+cu2_e         0.0334
+mn2_e         0.0326
+fol_e         0.0315
+pnto__R_e     0.0272
+ribflv_e      0.021
+zn2_e         0.0161
+pydxn_e       0.0105
+thm_e         0.0105
+3oxoadp_e     0.00472
+bz_e          0.00472
+cobalt2_e     0.00472
+PID: 10303, Process Name: Process-8, Thread Name: MainThread
+merged_community/lactobacillus_camelliae.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+tmao_e     545        h2o_e       1e+03    Growth  17.3
+o2_e       306        co2_e     745
+fe3_e      300        tma_e     545
+cellb_e    248        diact_e   376
+arab__L_e   72.7      fe2_e     300
+cgly_e      10.3      pyr_e     248
+glu__L_e     8.83     abt__L_e   68.1
+asn__L_e     8.09     hco3_e      8.84
+leu__L_e     7.56     s_e         8.62
+val__L_e     7.1      glyclt_e    3.72
+lys__L_e     5.76     cys__L_e    0.106
+arg__L_e     4.96     adn_e       0.00336
+ile__L_e     4.87     pi_e        0.00336
+ser__L_e     4.58
+thr__L_e     4.26
+3ump_e       4.21
+2pglyc_e     3.72
+pro__L_e     3.71
+gua_e        3.61
+3amp_e       3.43
+k_e          3.27
+gam_e        3.13
+phe__L_e     3.11
+met__L_e     2.58
+tyr__L_e     2.31
+uaagmda_e    1.68
+his__L_e     1.59
+chor_e       0.954
+3cmp_e       0.891
+3gmp_e       0.453
+dtmp_e       0.444
+mg2_e        0.146
+ca2_e        0.0873
+cl_e         0.0873
+so4_e        0.0728
+nmn_e        0.0382
+cu2_e        0.0119
+mn2_e        0.0116
+fol_e        0.0112
+pnto__R_e    0.00966
+ribflv_e     0.00748
+zn2_e        0.00572
+cyst__L_e    0.00374
+thm_e        0.00374
+23camp_e     0.00336
+4hphac_e     0.00168
+4hbz_e       0.00168
+cobalt2_e    0.00168
+PID: 10301, Process Name: Process-6, Thread Name: MainThread
+merged_community/lactobacillus_apinorum.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+gmp_e         1e+03    co2_e       1e+03  Growth  44.2
+h2o_e         1e+03    h_e         1e+03
+glu__L_e    851        pi_e        1e+03
+f6p_e       500        gua_e     990
+gthrd_e     347        acald_e   990
+arab__L_e   332        succ_e    824
+o2_e        309        ala__D_e  815
+h2o2_e      174        6pgc_e    491
+gly_e       171        abt__L_e  332
+urea_e      132        nh4_e     270
+glyald_e     76.2      gthox_e   174
+3amp_e       38.1      ser__L_e  121
+asp__L_e     20.7      glyc_e     76.2
+leu__L_e     19.3      hxan_e     29.4
+val__L_e     18.1      3pg_e       8.77
+lys__L_e     14.7
+cytd_e       14.2
+arg__L_e     12.7
+ile__L_e     12.4
+thr__L_e     10.9
+orn_e         9.47
+k_e           8.36
+phe__L_e      7.94
+tyr__L_e      5.91
+metox_e       5.82
+26dap__M_e    4.28
+pep_e         4.28
+his__L_e      4.06
+cgly_e        3.92
+id3acald_e    2.44
+met__L_e      0.774
+fe2_e         0.622
+mg2_e         0.372
+ca2_e         0.223
+cl_e          0.223
+so4_e         0.186
+rnam_e        0.0976
+cu2_e         0.0304
+mn2_e         0.0296
+fol_e         0.0287
+coa_e         0.0247
+ribflv_e      0.0191
+zn2_e         0.0146
+pydxn_e       0.00956
+thm_e         0.00956
+bz_e          0.00428
+cobalt2_e     0.00428
+thym_e        0.00428
+PID: 10296, Process Name: Process-1, Thread Name: MainThread
+merged_community/brevefilum_fermentans.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+id3acald_e    1e+03    co2_e       1e+03  Growth  42.4
+o2_e        931        acald_e     1e+03
+orn_e       780        h_e         1e+03
+gsn_e       569        nh4_e       1e+03
+no2_e       528        trp__L_e  998
+chor_e      138        succ_e    873
+phe__L_e    107        gua_e     559
+man6p_e      40.5      ac_e      158
+thr__L_e     26.5      4abz_e    138
+asn__L_e     19.9      h2o_e      84.7
+gln__L_e     19        h2s_e      38.6
+leu__L_e     18.5      thym_e      2.22
+val__L_e     17.4
+tton_e       14.1
+lys__L_e     14.1
+arg__L_e     12.2
+ile__L_e     11.9
+progly_e      9.09
+adn_e         8.37
+k_e           8.02
+uri_e         7.03
+metox__R_e    6.33
+4hphac_e      5.67
+cytd_e        5.48
+26dap__M_e    4.11
+his__L_e      3.89
+thymd_e       3.3
+mg2_e         0.357
+fe3_e         0.321
+fe2_e         0.276
+ca2_e         0.214
+cl_e          0.214
+so4_e         0.178
+cu2_e         0.0291
+mn2_e         0.0284
+fol_e         0.0275
+coa_e         0.0237
+ribflv_e      0.0183
+zn2_e         0.014
+thm_e         0.00917
+bz_e          0.00411
+cobalt2_e     0.00411
+PID: 10308, Process Name: Process-13, Thread Name: MainThread
+merged_community/lactobacillus_iners.xml
+IN FLUXES              OUT FLUXES            OBJECTIVES
+---------------------  --------------------  ------------
+h2o_e         1e+03    h_e           1e+03   Growth  30.9
+glyald_e    503        lac__L_e    997
+man1p_e     434        glyc_e      503
+acald_e     271        pi_e        492
+gua_e       244        ac_e        266
+g1p_e        78.1      urate_e     236
+ala__L_e     18        nh4_e       220
+gly_e        15.6      co2_e         0.399
+asp__L_e     14.4      id3acald_e    0.0207
+leu__L_e     13.5      mal__L_e      0.0207
+glu__L_e     13        glyclt_e      0.02
+val__L_e     12.7
+lys__L_e     10.3
+cytd_e        9.83
+arg__L_e      8.85
+ile__L_e      8.7
+thr__L_e      7.59
+pro__L_e      6.62
+ser__L_e      6.46
+amp_e         6.11
+ala__D_e      5.99
+k_e           5.84
+phe__L_e      5.54
+met__L_e      4.61
+tyr__L_e      4.13
+26dap__M_e    2.99
+glu__D_e      2.99
+udcpp_e       2.99
+his__L_e      2.84
+gthrd_e       2.76
+trp__L_e      1.72
+for_e         0.776
+ala_B_e       0.335
+o2_e          0.26
+mg2_e         0.26
+fe3_e         0.234
+fe2_e         0.201
+ca2_e         0.156
+cl_e          0.156
+h2s_e         0.13
+rnam_e        0.0682
+csn_e         0.0652
+cu2_e         0.0212
+akg_e         0.0207
+cit_e         0.0207
+mn2_e         0.0207
+4abz_e        0.02
+pnto__R_e     0.0172
+ribflv_e      0.0133
+zn2_e         0.0102
+thm_e         0.00667
+3oxoadp_e     0.00299
+bz_e          0.00299
+cobalt2_e     0.00299
+thym_e        0.00299
+PID: 10307, Process Name: Process-12, Thread Name: MainThread
+merged_community/lactobacillus_floricola.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+glu__D_e      1e+03    co2_e       1e+03  Growth  42.1
+h2o_e         1e+03    succ_e    993
+o2_e        785        ala__D_e  958
+23cgmp_e    636        h_e       950
+gthrd_e     524        xan_e     626
+glyald_e    329        nh4_e     623
+h2o2_e      262        pi_e      604
+gly_e       156        glyc_e    329
+acald_e     138        gthox_e   262
+asp__L_e     33.2      ser__L_e  126
+gln__L_e     18.9
+leu__L_e     18.4
+26dap__M_e   18.1
+val__L_e     17.3
+cytd_e       13.5
+arg__L_e     12.1
+ile__L_e     11.9
+pro__L_e      9.02
+23camp_e      8.31
+k_e           7.97
+phe__L_e      7.56
+tyr__L_e      5.64
+his__L_e      3.87
+cgly_e        3.75
+h2s_e         3.15
+mmet_e        3.13
+id3acald_e    2.32
+fe3_e         0.593
+mg2_e         0.354
+ca2_e         0.212
+cl_e          0.212
+so4_e         0.177
+nmn_e         0.093
+cu2_e         0.0289
+mn2_e         0.0282
+fol_e         0.0273
+coa_e         0.0235
+thymd_e       0.0223
+ribflv_e      0.0182
+zn2_e         0.0139
+chor_e        0.00408
+cobalt2_e     0.00408
+PID: 10306, Process Name: Process-11, Thread Name: MainThread
+merged_community/lactobacillus_equicursoris.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+h2o_e      742        nh4_e       1e+03  Growth  24.1
+arg__L_e   503        lac__D_e  924
+fru_e      352        h_e       690
+tton_e     203        co2_e     626
+mnl_e      142        orn_e     496
+ala__L_e    30.2      so3_e     203
+asp__L_e    27.2      tsul_e    203
+o2_e        23        mal__L_e   13.6
+2pglyc_e    22.9      pyr_e       5.2
+gly_e       14.9
+akg_e       13.6
+leu__L_e    10.5
+val__L_e     9.86
+ser__L_e     8.5
+lys__L_e     8
+cytd_e       7.71
+ile__L_e     6.77
+gln__L_e     6.14
+thr__L_e     5.91
+gua_e        5.64
+cellb_e      5.2
+hxan_e       4.76
+ala__D_e     4.66
+gam_e        4.66
+k_e          4.55
+phe__L_e     4.32
+met__L_e     3.58
+tyr__L_e     3.21
+his__L_e     2.21
+h2s_e        2.15
+indole_e     1.32
+fe2_e        0.338
+mg2_e        0.202
+ca2_e        0.121
+cl_e         0.121
+so4_e        0.101
+nmn_e        0.0531
+cu_e         0.0165
+mn2_e        0.0161
+fol_e        0.0156
+pnto__R_e    0.0134
+ribflv_e     0.0104
+zn2_e        0.00795
+thm_e        0.0052
+mmet_e       0.00233
+chor_e       0.00233
+cobalt2_e    0.00233
+PID: 10317, Process Name: Process-22, Thread Name: MainThread
+merged_community/lactobacillus_secaliphilus.xml
+IN FLUXES              OUT FLUXES           OBJECTIVES
+---------------------  -------------------  ------------
+o2_e        783        co2_e        1e+03   Growth  21.8
+3pg_e       372        lac__D_e     1e+03
+g1p_e       347        pi_e       693
+glyald_e    299        h_e        601
+acald_e      73.8      h2o_e      396
+alaala_e     38.8      ala__D_e    73.3
+ser__L_e     37.9      glyc__R_e   33.4
+id3acald_e   18.3      nh4_e       32.9
+no2_e        14.3      indole_e    17.1
+gln__L_e     13.2      6pgc_e       4.86
+asp__L_e     12.3      glyb_e       0.0921
+gly_e        11
+leu__L_e      9.49
+val__L_e      8.91
+lys__L_e      7.23
+cytd_e        6.42
+arg__L_e      6.23
+ile__L_e      6.12
+thr__L_e      5.34
+gua_e         5.1
+pro__L_e      4.66
+k_e           4.11
+phe__L_e      3.9
+ade_e         3.74
+met__L_e      3.24
+tyr__L_e      2.9
+his__L_e      2
+cgly_e        1.93
+dad_2_e       0.551
+thymd_e       0.551
+fe3_e         0.306
+mg2_e         0.183
+ca2_e         0.11
+cl_e          0.11
+chols_e       0.0921
+nmn_e         0.048
+cu2_e         0.0149
+mn2_e         0.0146
+fol_e         0.0141
+coa_e         0.0121
+ribflv_e      0.0094
+zn2_e         0.00718
+pydxn_e       0.0047
+thm_e         0.0047
+bz_e          0.00211
+cobalt2_e     0.00211
+PID: 10312, Process Name: Process-17, Thread Name: MainThread
+merged_community/lactobacillus_lindneri.xml
+IN FLUXES                OUT FLUXES              OBJECTIVES
+-----------------------  ----------------------  ------------
+glyc3p_e        1e+03    h2o_e           1e+03   Growth  33.1
+o2_e            1e+03    h_e             1e+03
+acald_e       151        pi_e            1e+03
+murein5p5p_e  136        pyr_e           1e+03
+glu__L_e       34.3      ala__D_e      242
+asp__L_e       29.7      murein4p4p_e  136
+thr__L_e       24        co2_e          89.7
+ser__L_e       22.1      ac_e           77.7
+cit_e          17        12ppd__S_e     19
+leu__L_e       14.5      glyclt_e       14.4
+2pglyc_e       14.4      succ_e         14.2
+val__L_e       13.6      so3_e          11.5
+chor_e         12.2      tsul_e         11.5
+tton_e         11.5      h2s_e           0.0557
+3cmp_e         10.6
+xyl__D_e        9.6
+arg__L_e        9.49
+ile__L_e        9.32
+gua_e           7.77
+orn_e           7.09
+3amp_e          6.54
+acmana_e        6.42
+k_e             6.26
+metox_e         4.94
+his__L_e        3.04
+cgly_e          2.94
+mg2_e           0.278
+fe3_e           0.25
+fe2_e           0.215
+ca2_e           0.167
+cl_e            0.167
+so4_e           0.139
+nmn_e           0.0731
+cu2_e           0.0227
+mn2_e           0.0222
+fol_e           0.0215
+coa_e           0.0185
+ribflv_e        0.0143
+tet_e           0.0139
+zn2_e           0.0109
+thm_e           0.00715
+cobalt2_e       0.00321
+PID: 10305, Process Name: Process-10, Thread Name: MainThread
+merged_community/lactobacillus_delbrueckii.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+fru_e       239        lac__L_e    1e+03  Growth  15.8
+sucr_e      133        h_e       940
+acald_e      43.9      co2_e      67.9
+o2_e         23.7      h2o_e      21.4
+2pglyc_e     15        nh4_e      10.7
+ala__L_e     14        acac_e      8.43
+chor_e       11.3      akg_e       2.84
+no2_e        10.7
+ala_B_e       9.74
+gln__L_e      9.39
+gly_e         8.38
+leu__L_e      6.9
+26dap__M_e    6.79
+val__L_e      6.48
+ura_e         4.66
+arg__L_e      4.53
+ile__L_e      4.45
+gua_e         3.72
+pro__L_e      3.39
+ser__L_e      3.31
+adn_e         3.12
+gam_e         3.06
+glu__L_e      3.05
+k_e           2.99
+mal__L_e      2.84
+met__L_e      2.36
+tyr__L_e      2.11
+his__L_e      1.45
+cgly_e        1.4
+trp__L_e      0.871
+dcyt_e        0.401
+mg2_e         0.133
+fe3_e         0.12
+fe2_e         0.103
+ca2_e         0.0797
+cl_e          0.0797
+so4_e         0.0664
+nmn_e         0.0349
+cu_e          0.0109
+mn2_e         0.0106
+4abz_e        0.0102
+coa_e         0.00882
+ribflv_e      0.00683
+zn2_e         0.00522
+thm_e         0.00342
+4hbz_e        0.00153
+cobalt2_e     0.00153
+thym_e        0.00153
+PID: 10311, Process Name: Process-16, Thread Name: MainThread
+merged_community/lactobacillus_kunkeei.xml
+IN FLUXES            OUT FLUXES         OBJECTIVES
+-------------------  -----------------  ------------
+glyald_e    1e+03    h_e         1e+03  Growth  16.6
+acald_e    56.2      lac__L_e    1e+03
+fe3_e      24.4      h2o_e     137
+ala__L_e   16.3      co2_e      37.7
+man1p_e    12.5      fe2_e      24.2
+asp__L_e    9.55     abt__L_e    7.31
+gly_e       7.94     glyc_e      5.39
+gln__L_e    7.44     nh4_e       4.34
+arab__L_e   7.31
+leu__L_e    7.23
+val__L_e    6.79
+o2_e        6.69
+glu__L_e    6.16
+lys__L_e    5.51
+cytd_e      5.31
+arg__L_e    4.75
+ile__L_e    4.66
+ser__L_e    3.89
+gua_e       3.89
+asn__L_e    3.87
+3amp_e      3.27
+k_e         3.13
+phe__L_e    2.97
+metox_e     2.47
+tyr__L_e    2.21
+his__L_e    1.52
+cgly_e      1.47
+trp__L_e    0.912
+mg2_e       0.139
+ca2_e       0.0835
+cl_e        0.0835
+h2s_e       0.0696
+nmn_e       0.0366
+cu2_e       0.0114
+mn2_e       0.0111
+fol_e       0.0107
+coa_e       0.00924
+ribflv_e    0.00716
+zn2_e       0.00547
+thm_e       0.00358
+bz_e        0.0016
+cobalt2_e   0.0016
+mmet_e      0.0016
+ptrc_e      0.0016
+PID: 10314, Process Name: Process-19, Thread Name: MainThread
+merged_community/lactobacillus_nodensis.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+drib_e     942        ac_e        1e+03  Growth  43.9
+akg_e      815        co2_e       1e+03
+arg__L_e   815        ala__D_e  837
+o2_e       173        pro__L_e  793
+h2o_e      111        glu__L_e  792
+acald_e     57.9      nh4_e     581
+mal__L_e    50.1      h_e       256
+glyc3p_e    41.8      succ_e     18.8
+phe__L_e    26.7      h2s_e      15.7
+leu__L_e    19.2      glyb_e      0.184
+gly_e       19
+but_e       18
+uri_e       13
+ile__L_e    12.3
+gua_e       10.3
+cellb_e      9.26
+hxan_e       8.66
+acnam_e      8.5
+k_e          8.3
+chor_e       8.29
+lcts_e       6.89
+metox_e      6.55
+tton_e       5.22
+glu__D_e     4.25
+cgly_e       3.9
+ser__L_e     1.6
+thymd_e      1.11
+mg2_e        0.369
+fe3_e        0.332
+fe2_e        0.286
+ca2_e        0.221
+cl_e         0.221
+chols_e      0.184
+nmn_e        0.0969
+cu2_e        0.0301
+mn2_e        0.0294
+fol_e        0.0284
+coa_e        0.0245
+ribflv_e     0.019
+zn2_e        0.0145
+sbt__D_e     0.00948
+bz_e         0.00425
+cobalt2_e    0.00425
+PID: 10310, Process Name: Process-15, Thread Name: MainThread
+merged_community/lactobacillus_kullabergensis.xml
+IN FLUXES              OUT FLUXES           OBJECTIVES
+---------------------  -------------------  ------------
+h2o_e         1e+03    ala__D_e      1e+03  Growth  26.2
+trp__L_e    842        co2_e         1e+03
+o2_e        740        h_e           1e+03
+phe__L_e    525        id3acald_e  840
+fru_e       431        lac__D_e    740
+fum_e       380        succ_e      520
+glyc_e      127        val__L_e    301
+2pglyc_e     21.8      mal__L_e     15.9
+akg_e        15.9      ura_e         6.19
+cytd_e       13.9      nh4_e         2.66
+gly_e        13.2      chol_e        0.11
+leu__L_e     11.5      for_e         0.034
+lys__L_e      8.72
+arg__L_e      7.52
+ile__L_e      7.38
+thr__L_e      6.45
+gua_e         6.17
+orn_e         5.62
+ser__L_e      5.5
+adn_e         5.18
+gam_e         5.08
+k_e           4.96
+met__L_e      3.91
+tyr__L_e      3.5
+26dap__M_e    2.54
+udcpp_e       2.54
+his__L_e      2.41
+cgly_e        2.33
+dtmp_e        0.665
+fe2_e         0.369
+mg2_e         0.22
+ca2_e         0.132
+cl_e          0.132
+chols_e       0.11
+nmn_e         0.0579
+cu2_e         0.018
+cit_e         0.0176
+mn2_e         0.0176
+fol_e         0.017
+coa_e         0.0146
+zn2_e         0.00867
+4hthr_e       0.00567
+thm_e         0.00567
+bz_e          0.00254
+cobalt2_e     0.00254
+PID: 10313, Process Name: Process-18, Thread Name: MainThread
+merged_community/lactobacillus_mellifer.xml
+IN FLUXES             OUT FLUXES          OBJECTIVES
+--------------------  ------------------  ------------
+glu__L_e   995        co2_e       1e+03   Growth  31.5
+o2_e       984        h2o_e       1e+03
+fru_e      279        h_e       977
+dextrin_e  114        ala__D_e  961
+acald_e    107        succ_e    960
+asp__L_e    25.5      akg_e      30.6
+gly_e       15.9      gsn_e      14.5
+arg__L_e    15.8      nh4_e      10.5
+23cgmp_e    14.5      xan_e       7.4
+gln__L_e    14.2      ser__L_e    1.12
+leu__L_e    13.8      mal__L_e    0.0104
+val__L_e    12.9
+lys__L_e    10.5
+23ccmp_e     9.31
+ile__L_e     8.88
+xtsn_e       7.4
+gua_e        7.4
+23camp_e     6.24
+k_e          5.96
+phe__L_e     5.66
+metox_e      4.7
+tyr__L_e     4.21
+his__L_e     2.89
+cgly_e       2.82
+trp__L_e     1.74
+thymd_e      0.799
+mg2_e        0.265
+fe3_e        0.239
+fe2_e        0.205
+ca2_e        0.159
+cl_e         0.159
+so4_e        0.133
+nmn_e        0.0696
+cu2_e        0.0217
+mn2_e        0.0211
+fol_e        0.0204
+ala_B_e      0.0176
+ribflv_e     0.0136
+cit_e        0.0104
+zn2_e        0.0104
+thm_e        0.00681
+bz_e         0.00305
+cobalt2_e    0.00305
+PID: 10315, Process Name: Process-20, Thread Name: MainThread
+merged_community/lactobacillus_parabrevis.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+h2o_e      836        acald_e    1e+03   Growth  26.7
+thymd_e    503        co2_e      1e+03
+alltn_e    503        thym_e   503
+o2_e       498        urea_e   503
+h_e         13.8      nh4_e    489
+glu__L_e    13.6      ade_e      0.124
+gly_e       12.8      chol_e     0.112
+asp__L_e    12.5      fruur_e    0.0771
+leu__L_e    11.7
+val__L_e    11
+lys__L_e     8.88
+arg__L_e     7.65
+ala__D_e     7.57
+ile__L_e     7.52
+thr__L_e     6.57
+3gmp_e       6.28
+ser__L_e     6.26
+orn_e        5.72
+3amp_e       5.4
+3ump_e       5.11
+k_e          5.05
+phe__L_e     4.79
+met__L_e     3.98
+tyr__L_e     3.57
+3cmp_e       3.46
+uaagmda_e    2.59
+his__L_e     2.45
+cgly_e       2.37
+trp__L_e     1.47
+fe2_e        0.376
+mg2_e        0.225
+ca2_e        0.135
+cl_e         0.135
+chols_e      0.112
+nmn_e        0.059
+cu_e         0.0183
+mn2_e        0.0179
+4abz_e       0.0173
+coa_e        0.0149
+ribflv_e     0.0115
+zn2_e        0.00882
+thm_e        0.00577
+4hphac_e     0.00259
+bzalc_e      0.00259
+cobalt2_e    0.00259
+PID: 10318, Process Name: Process-23, Thread Name: MainThread
+merged_community/lactobacillus_shenzhenensis.xml
+IN FLUXES              OUT FLUXES        OBJECTIVES
+---------------------  ----------------  ------------
+galt_e      495        lac__D_e  993     Growth  16.4
+tet_e        48.2      h_e       896
+acald_e      47.7      h2o_e     457
+o2_e         37.6      h2s_e     193
+ala__D_e     12.9      co2_e      22.6
+thr__L_e     11.9      abt__L_e   18.7
+glyc3p_e     10.8      pi_e       12.3
+asn__L_e      7.65     nh4_e       6.53
+gln__L_e      7.35     ade_e       3.85
+leu__L_e      7.15     akg_e       1.62
+23camp_e      7.08
+val__L_e      6.71
+Larab_e       6.24
+lys__L_e      5.45
+23ccmp_e      5.25
+skm_e         5.13
+pser__L_e     4.75
+arg__L_e      4.69
+ile__L_e      4.61
+glu__L_e      4.21
+gua_e         3.84
+orn_e         3.51
+k_e           3.1
+met__L_e      2.44
+sucr_e        1.59
+26dap__M_e    1.59
+his__L_e      1.5
+cgly_e        1.45
+indole_e      0.902
+mg2_e         0.138
+fe3_e         0.124
+fe2_e         0.107
+ca2_e         0.0826
+cl_e          0.0826
+so4_e         0.0688
+nmn_e         0.0361
+cu_e          0.0113
+mn2_e         0.011
+fol_e         0.0106
+coa_e         0.00914
+ribflv_e      0.00708
+cit_e         0.00541
+zn2_e         0.00541
+thm_e         0.00354
+bz_e          0.00159
+cobalt2_e     0.00159
+PID: 10309, Process Name: Process-14, Thread Name: MainThread
+merged_community/lactobacillus_koreensis.xml
+IN FLUXES             OUT FLUXES          OBJECTIVES
+--------------------  ------------------  ------------
+glyald_e     1e+03    co2_e       1e+03   Growth  23.2
+tmao_e       1e+03    h_e         1e+03
+4abut_e    811        tma_e       1e+03
+o2_e       769        succ_e    813
+23camp_e   392        ala__D_e  798
+no3_e       73.3      h2o_e     406
+asp__L_e    19        ade_e     404
+3amp_e      16.6      13ppd_e   399
+gly_e       11.1      pi_e      392
+gln__L_e    10.4      acald_e   101
+leu__L_e    10.1      no2_e      73.3
+val__L_e     9.49     mal__L_e    5.9
+lys__L_e     7.7      chol_e      0.0973
+cytd_e       7.42
+arg__L_e     6.64
+ile__L_e     6.52
+akg_e        5.9
+thr__L_e     5.69
+ser__L_e     5.44
+3gmp_e       5.43
+orn_e        4.96
+k_e          4.38
+phe__L_e     4.16
+met__L_e     3.45
+tyr__L_e     3.09
+his__L_e     2.13
+cgly_e       2.05
+nh4_e        1.59
+trp__L_e     1.28
+mg2_e        0.195
+fe3_e        0.175
+fe2_e        0.151
+ca2_e        0.117
+cl_e         0.117
+chols_e      0.0973
+nmn_e        0.0511
+cu_e         0.0159
+mn2_e        0.0155
+fol_e        0.015
+coa_e        0.0129
+ribflv_e     0.01
+zn2_e        0.00765
+thm_e        0.005
+bz_e         0.00224
+cobalt2_e    0.00224
+thymd_e      0.00224
+PID: 10354, Process Name: Process-59, Thread Name: MainThread
+merged_community/streptococcus_halotolerans.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+glyc3p_e      1e+03    co2_e       1e+03   Growth  44.3
+arg__L_e    690        for_e       1e+03
+o2_e        569        nh4_e       1e+03
+h2o_e       513        pi_e        1e+03
+h_e         365        acald_e   871
+chor_e      299        orn_e     668
+thr__L_e     32.1      4abz_e    299
+glu__L_e     26.9      diact_e   130
+asp__L_e     20.5      ade_e       8.7
+leu__L_e     19.3      chol_e      0.186
+26dap__M_e   19        glyclt_e    0.0287
+val__L_e     18.2
+3amp_e       17.4
+ile__L_e     12.5
+3gmp_e       10.4
+ser__L_e     10.4
+k_e           8.38
+phe__L_e      7.95
+3ump_e        7.31
+3cmp_e        6.89
+metox_e       6.61
+tyr__L_e      5.92
+his__L_e      4.07
+cgly_e        3.93
+glyc_e        2.85
+trp__L_e      2.44
+fe2_e         0.623
+mg2_e         0.372
+ca2_e         0.223
+cit_e         0.223
+cl_e          0.223
+chols_e       0.186
+nac_e         0.0978
+cu2_e         0.0304
+mn2_e         0.0297
+coa_e         0.0247
+ribflv_e      0.0191
+zn2_e         0.0146
+thm_e         0.00957
+bz_e          0.00429
+cobalt2_e     0.00429
+succ_e        0.00429
+PID: 10322, Process Name: Process-27, Thread Name: MainThread
+merged_community/lactobacillus_zymae.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+alltn_e       1e+03    acald_e     1e+03  Growth  51.5
+h2o_e         1e+03    co2_e       1e+03
+thymd_e       1e+03    h_e         1e+03
+o2_e        788        nh4_e       1e+03
+glu__L_e    712        thym_e      1e+03
+mal__L_e    668        urea_e      1e+03
+no3_e       316        akg_e     668
+id3acald_e  256        fum_e     668
+arg__L_e     25.8      ala__D_e  362
+pser__L_e    24.2      no2_e     316
+asp__L_e     24        trp__L_e  253
+leu__L_e     22.4      pyr_e     250
+gly_e        21.6      lac__L_e  160
+val__L_e     21.1      succ_e     12.7
+lys__L_e     17.1      chol_e      0.216
+phe__L_e     16.1
+ile__L_e     14.5
+tartr__L_e   12.7
+thr__L_e     12.6
+h2s_e        12.2
+3gmp_e       12.1
+3amp_e       10.2
+k_e           9.73
+uri_e         8.37
+cytd_e        5.55
+xyl__D_e      5.24
+sbt__D_e      4.77
+his__L_e      4.72
+3ump_e        2.56
+mg2_e         0.432
+fe3_e         0.389
+fe2_e         0.335
+ca2_e         0.259
+cl_e          0.259
+chols_e       0.216
+rnam_e        0.114
+cu2_e         0.0353
+mn2_e         0.0344
+fol_e         0.0333
+coa_e         0.0287
+glyc_e        0.0197
+cit_e         0.017
+zn2_e         0.017
+thm_e         0.0111
+2pglyc_e      0.00498
+bz_e          0.00498
+cobalt2_e     0.00498
+PID: 10320, Process Name: Process-25, Thread Name: MainThread
+merged_community/lactobacillus_similis.xml
+IN FLUXES                OUT FLUXES              OBJECTIVES
+-----------------------  ----------------------  ------------
+2ddglcn_e     951        lac__L_e        1e+03   Growth  16.9
+glyc3p_e       14.5      h_e           967
+asp__L_e       12.5      pyr_e         933
+malt_e         11.5      h2o_e         141
+glyald_e       11.3      co2_e          21.8
+gly_e           8.99     succ_e          2.38
+gln__L_e        8.32     murein4p4p_e    1.62
+leu__L_e        7.4      fum_e           0.535
+o2_e            6.99     acald_e         0.0758
+val__L_e        6.95
+lys__L_e        5.63
+urea_e          5.54
+skm_e           5.31
+csn_e           4.99
+arg__L_e        4.86
+ile__L_e        4.77
+thr__L_e        4.16
+orn_e           3.63
+ser__L_e        3.54
+gua_e           3.53
+acmana_e        3.28
+k_e             3.2
+hxan_e          2.91
+met__L_e        2.53
+glu__L_e        1.96
+udcpp_e         1.64
+murein5p5p_e    1.62
+his__L_e        1.56
+cgly_e          1.5
+id3acald_e      0.933
+dcyt_e          0.443
+dgsn_e          0.443
+dad_2_e         0.429
+fe3_e           0.238
+mg2_e           0.142
+ca2_e           0.0854
+cl_e            0.0854
+so4_e           0.0712
+but_e           0.0551
+nac_e           0.0374
+alaala_e        0.0214
+cu2_e           0.0116
+mn2_e           0.0113
+fol_e           0.011
+coa_e           0.00945
+ribflv_e        0.00732
+zn2_e           0.0056
+thm_e           0.00366
+cobalt2_e       0.00164
+PID: 10337, Process Name: Process-42, Thread Name: MainThread
+merged_community/prevotella_amnii.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+glyc3p_e    803        co2_e       1e+03   Growth  31
+arab__L_e   694        acald_e   992
+h_e         329        pi_e      898
+o2_e        273        abt__L_e  694
+man1p_e     124        h2o_e     362
+no3_e       121        nh4_e      66.7
+phe__L_e     19.2      4hbz_e      3.16
+LalaLglu_e   18.3      for_e       0.0602
+thr__L_e     15.8      gal_e       0.026
+3mb_e        13.5      glyclt_e    0.0201
+26dap__M_e   13.3
+but_e        12.7
+uri_e         9.9
+arg__L_e      8.88
+ile__L_e      8.72
+dgsn_e        7.3
+tartr__D_e    7.25
+asn__L_e      7.23
+progly_e      6.63
+adn_e         6.13
+acgam_e       6
+k_e           5.86
+met__L_e      4.62
+his__L_e      2.84
+cgly_e        2.77
+cit_e         0.469
+mg2_e         0.26
+fe3_e         0.234
+fe2_e         0.202
+ca2_e         0.156
+cl_e          0.156
+so4_e         0.13
+nmn_e         0.0684
+udpgal_e      0.026
+cu2_e         0.0213
+mn2_e         0.0207
+zn2_e         0.0102
+thm_e         0.00669
+gsn_e         0.003
+cobalt2_e     0.003
+thym_e        0.003
+PID: 10297, Process Name: Process-2, Thread Name: MainThread
+merged_community/enterococcus_aquimarinus.xml
+IN FLUXES              OUT FLUXES        OBJECTIVES
+---------------------  ----------------  ------------
+glu__L_e    951        co2_e      1e+03  Growth  30
+o2_e        948        succ_e   947
+sucr_e      249        for_e    945
+3cmp_e       23.9      h_e      940
+galur_e      20.3      nh4_e    900
+gln__L_e     20.2      acald_e  843
+asp__L_e     14        h2o_e    118
+leu__L_e     13.1      thym_e    14.3
+26dap__M_e   12.9
+val__L_e     12.3
+ade_e         8.7
+arg__L_e      8.6
+ile__L_e      8.45
+thr__L_e      7.38
+gam_e         5.82
+k_e           5.68
+pi_e          4.7
+metox_e       4.48
+gua_e         4.29
+h2s_e         2.68
+fe2_e         0.422
+mg2_e         0.252
+ca2_e         0.151
+cl_e          0.151
+so4_e         0.126
+nmn_e         0.0663
+cu_e          0.0206
+mn2_e         0.0201
+fol_e         0.0195
+pnto__R_e     0.0168
+ribflv_e      0.013
+zn2_e         0.00992
+thm_e         0.00649
+2pglyc_e      0.00291
+4hbz_e        0.00291
+cobalt2_e     0.00291
+PID: 10330, Process Name: Process-35, Thread Name: MainThread
+merged_community/negativicoccus_massiliensis.xml
+IN FLUXES              OUT FLUXES           OBJECTIVES
+---------------------  -------------------  ------------
+no3_e         1e+03    ala__D_e    1e+03    Growth  29.8
+orn_e         1e+03    h2o_e       1e+03
+6pgc_e        1e+03    no2_e       1e+03
+alaala_e    441        pro__L_e  994
+aso4_e      246        ala__L_e  985
+ptrc_e      122        co2_e     893
+id3acald_e  119        pi_e      663
+gly_e        16.9      h_e       339
+leu__L_e     13        man1p_e   315
+asp__L_e     12.9      aso3_e    246
+val__L_e     12.2      succ_e    124
+glu__L_e     10.3      indole_e  118
+lys__L_e      9.91     nh4_e     113
+ser__L_e      9.66     fum_e       5.9
+ura_e         9.54     for_e       0.00289
+chor_e        9.33
+arg__L_e      8.54
+ile__L_e      8.39
+gln__L_e      7.6
+thr__L_e      7.32
+gua_e         6.99
+asn__L_e      6.96
+hxan_e        5.9
+k_e           5.63
+met__L_e      4.44
+uaagmda_e     2.89
+his__L_e      2.73
+h2s_e         2.67
+fe3_e         0.419
+mg2_e         0.25
+ca2_e         0.15
+cl_e          0.15
+so4_e         0.125
+nmn_e         0.0658
+cu2_e         0.0205
+mn2_e         0.0199
+fol_e         0.0193
+pnto__R_e     0.0166
+ribflv_e      0.0129
+zn2_e         0.00984
+thym_e        0.00932
+thm_e         0.00644
+bz_e          0.00289
+cobalt2_e     0.00289
+glyclt_e      0.00289
+PID: 10321, Process Name: Process-26, Thread Name: MainThread
+merged_community/lactobacillus_xiangfangensis.xml
+IN FLUXES             OUT FLUXES        OBJECTIVES
+--------------------  ----------------  ------------
+fru_e      189        lac__L_e  949     Growth  16.2
+sucr_e     159        h_e       920
+glu__L_e    18.5      co2_e      77.7
+gly_e       17.4      glyclt_e   24.6
+o2_e        13.9      succ_e     12.8
+cit_e       13.1      glyc_e      5.89
+2pglyc_e    11        urea_e      3.99
+leu__L_e     7.05     lac__D_e    3.13
+val__L_e     6.62
+gua_e        6.58
+lys__L_e     5.37
+chor_e       5.06
+arg__L_e     4.63
+ile__L_e     4.55
+23ccmp_e     4.35
+gln__L_e     4.12
+alltn_e      3.99
+ser__L_e     3.78
+pro__L_e     3.46
+acmum_e      3.13
+ala__D_e     3.13
+k_e          3.06
+met__L_e     2.41
+his__L_e     1.48
+cgly_e       1.43
+trp__L_e     0.89
+dcyt_e       0.833
+dad_2_e      0.41
+mg2_e        0.136
+fe3_e        0.122
+fe2_e        0.105
+ca2_e        0.0815
+cl_e         0.0815
+so4_e        0.0679
+nmn_e        0.0357
+cu_e         0.0111
+mn2_e        0.0108
+4abz_e       0.0105
+coa_e        0.00902
+ribflv_e     0.00698
+zn2_e        0.00534
+thm_e        0.00349
+mmet_e       0.00157
+bz_e         0.00157
+cobalt2_e    0.00157
+PID: 10339, Process Name: Process-44, Thread Name: MainThread
+merged_community/prevotella_timonensis.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+o2_e        642        lac__L_e    1e+03   Growth  32.5
+gam6p_e     513        co2_e       1e+03
+h2o_e       382        nh4_e     777
+glu__D_e    355        pi_e      489
+tartr__D_e   20        h_e       322
+ser__L_e     14.2      acald_e   306
+leu__L_e     14.2      glyclt_e    0.0211
+val__L_e     13.3
+thr__L_e     11.8
+26dap__M_e   10.8
+uri_e        10.4
+arg__L_e      9.31
+ile__L_e      9.14
+xan_e         7.65
+progly_e      6.96
+adn_e         6.41
+k_e           6.14
+h2s_e         4.84
+uaagmda_e     3.15
+his__L_e      2.98
+cgly_e        2.88
+indole_e      1.79
+mg2_e         0.273
+fe3_e         0.246
+fe2_e         0.211
+ca2_e         0.164
+cl_e          0.164
+so4_e         0.137
+nmn_e         0.0717
+cu2_e         0.0223
+mn2_e         0.0217
+4abz_e        0.0211
+coa_e         0.0181
+zn2_e         0.0107
+thm_e         0.00702
+cobalt2_e     0.00315
+xtsn_e        0.00315
+PID: 10304, Process Name: Process-9, Thread Name: MainThread
+merged_community/lactobacillus_capillatus.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+acald_e      1e+03    ac_e        1e+03  Growth  52
+glyc3p_e   989        co2_e       1e+03
+o2_e       500        pi_e        1e+03
+arab__L_e  492        h_e       953
+fum_e      255        abt__L_e  492
+no3_e      247        etoh_e    468
+akg_e      213        ala__D_e  329
+nh4_e      174        succ_e    255
+glu__L_e    84.8      mal__L_e  213
+pep_e       60.7      h2o_e     141
+gly_e       29.6      pyr_e      19.8
+leu__L_e    22.7
+val__L_e    21.3
+cellb_e     19.8
+ser__L_e    19.7
+skm_e       19.1
+lys__L_e    17.3
+cytd_e      16.7
+arg__L_e    14.9
+ile__L_e    14.6
+gua_e       12.2
+ade_e       10.3
+k_e          9.83
+met__L_e     7.75
+his__L_e     4.77
+h2s_e        4.64
+mg2_e        0.437
+fe3_e        0.393
+fe2_e        0.338
+ca2_e        0.262
+cl_e         0.262
+so4_e        0.219
+nmn_e        0.115
+cu2_e        0.0357
+mn2_e        0.0348
+fol_e        0.0337
+ala_B_e      0.029
+zn2_e        0.0172
+thm_e        0.0112
+bz_e         0.00504
+cobalt2_e    0.00504
+mmet_e       0.00504
+PID: 10358, Process Name: Process-63, Thread Name: MainThread
+merged_community/sulfurimonas_denitrificans.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+glu__L_e     1e+03    ac_e        1e+03    Growth  33.7
+o2_e         1e+03    co2_e       1e+03
+no3_e      845        h2o_e       1e+03
+man1p_e    535        asp__L_e  921
+h2_e        86.4      pyr_e     885
+ocdcea_e    83        nh4_e     715
+hdcea_e     43.2      pi_e      503
+no2_e       27.9      val__L_e   29.4
+galt_e      19.1      h2s_e       6.89
+cgly_e      14.9      oxa_e       0.0291
+leu__L_e    14.7      glyc_e      0.00326
+orn_e        9.65
+gua_e        7.93
+pro__L_e     7.21
+hxan_e       6.66
+k_e          6.37
+gln__L_e     4.12
+his__L_e     3.09
+thymd_e      0.853
+fe3_e        0.474
+mg2_e        0.283
+ca2_e        0.17
+cl_e         0.17
+so4_e        0.141
+nac_e        0.0743
+for_e        0.0291
+cu2_e        0.0231
+cit_e        0.0225
+mn2_e        0.0225
+zn2_e        0.0111
+cobalt2_e    0.00326
+PID: 10298, Process Name: Process-3, Thread Name: MainThread
+merged_community/enterococcus_devriesei.xml
+IN FLUXES             OUT FLUXES          OBJECTIVES
+--------------------  ------------------  ------------
+gam_e      271        h2o_e     568       Growth  16.6
+o2_e       143        co2_e     522
+sucr_e     120        h_e       477
+pi_e        15.8      acald_e   442
+gln__L_e     9.62     val__L_e  231
+leu__L_e     7.24     for_e     224
+gly_e        6.82     orn_e       4.75
+ser__L_e     5.92     glyclt_e    0.0107
+lys__L_e     5.51
+glu__L_e     5.2
+ade_e        4.8
+arg__L_e     4.75
+ile__L_e     4.67
+cytd_e       4.46
+thr__L_e     4.07
+pro__L_e     3.55
+k_e          3.13
+phe__L_e     2.98
+met__L_e     2.47
+gua_e        2.38
+tyr__L_e     2.21
+cgly_e       1.48
+dcyt_e       0.434
+thymd_e      0.42
+fe3_e        0.233
+mg2_e        0.139
+ca2_e        0.0836
+cl_e         0.0836
+so4_e        0.0697
+nmn_e        0.0366
+cu2_e        0.0114
+mn2_e        0.0111
+ribflv_e     0.00716
+zn2_e        0.00548
+thm_e        0.00358
+bz_e         0.00161
+cobalt2_e    0.00161
+PID: 10302, Process Name: Process-7, Thread Name: MainThread
+merged_community/lactobacillus_buchneri.xml
+IN FLUXES             OUT FLUXES          OBJECTIVES
+--------------------  ------------------  ------------
+arg__L_e   965        co2_e       1e+03   Growth  30.5
+h_e        946        ala__L_e  958
+h2o_e      530        orn_e     956
+tag__D_e   492        nh4_e     882
+acald_e    103        chol_e      0.128
+glu__L_e    25        glyclt_e    0.0198
+asp__L_e    24.5
+glyc3p_e    18
+leu__L_e    13.3
+gly_e       12.5
+val__L_e    12.5
+man6p_e     11
+ser__L_e    10.9
+lys__L_e    10.1
+uri_e        9.01
+ile__L_e     8.58
+glcur_e      8.45
+gua_e        7.17
+xyl__D_e     6.43
+glc__D_e     6.12
+ade_e        6.03
+k_e          5.76
+metox_e      4.54
+o2_e         3.97
+cgly_e       2.72
+thymd_e      0.756
+fe3_e        0.429
+mg2_e        0.256
+ca2_e        0.154
+cit_e        0.154
+cl_e         0.154
+chols_e      0.128
+nmn_e        0.0673
+cu_e         0.0209
+mn2_e        0.0204
+pnto__R_e    0.017
+ribflv_e     0.0132
+zn2_e        0.0101
+pydxn_e      0.00658
+thm_e        0.00658
+cobalt2_e    0.00295
+PID: 10323, Process Name: Process-28, Thread Name: MainThread
+merged_community/lactococcus_piscium.xml
+IN FLUXES             OUT FLUXES        OBJECTIVES
+--------------------  ----------------  ------------
+nh4_e      411        h2o_e     933     Growth  15.6
+cellb_e    260        h_e       599
+dmso_e     160        co2_e     414
+o2_e        48.4      val__L_e  327
+cit_e       35.8      pyr_e     260
+2pglyc_e    10.6      dms_e     160
+leu__L_e     6.8      ac_e       35.8
+ura_e        5        succ_e      7.85
+arg__L_e     4.47     ade_e       1.14
+ile__L_e     4.39
+23camp_e     4.21
+thr__L_e     3.83
+gua_e        3.67
+k_e          2.95
+arab__L_e    2.66
+his__L_e     1.43
+cgly_e       1.38
+h2s_e        1.16
+mmet_e       1.16
+mg2_e        0.131
+fe3_e        0.118
+fe2_e        0.101
+ca2_e        0.0786
+cl_e         0.0786
+so4_e        0.0655
+nmn_e        0.0344
+cu_e         0.0107
+mn2_e        0.0104
+coa_e        0.0087
+zn2_e        0.00515
+thm_e        0.00337
+4hbald_e     0.00151
+cobalt2_e    0.00151
+PID: 10319, Process Name: Process-24, Thread Name: MainThread
+merged_community/lactobacillus_silagei.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+arg__L_e   516        nh4_e       1e+03    Growth  25
+fru_e      345        lac__L_e  909
+glyc_e     310        co2_e     664
+h2o_e      293        orn_e     503
+o2_e       240        succ_e      4.28
+h_e        129        chol_e      0.105
+man6p_e     23.8      acald_e     0.00242
+asp__L_e    20.9
+ala__L_e    20.8
+glu__L_e    12.7
+gly_e       12.6
+leu__L_e    10.9
+val__L_e    10.2
+lys__L_e     8.3
+uri_e        7.37
+ile__L_e     7.03
+ser__L_e     6.57
+thr__L_e     6.14
+gua_e        5.88
+hxan_e       4.94
+ala__D_e     4.84
+k_e          4.72
+4abut_e      4.28
+fum_e        4.28
+glu__D_e     2.42
+his__L_e     2.29
+cgly_e       2.23
+h2s_e        1.86
+mmet_e       1.86
+abt__L_e     1.08
+thymd_e      0.635
+mg2_e        0.21
+fe3_e        0.189
+fe2_e        0.162
+ca2_e        0.126
+cl_e         0.126
+chols_e      0.105
+nmn_e        0.0551
+cu_e         0.0171
+mn2_e        0.0167
+4abz_e       0.0162
+ala_B_e      0.0139
+zn2_e        0.00825
+thm_e        0.00539
+cobalt2_e    0.00242
+PID: 10299, Process Name: Process-4, Thread Name: MainThread
+merged_community/kurthia_massiliensis.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+glu__L_e     1e+03    succ_e      1e+03  Growth  53.3
+glyc3p_e     1e+03    co2_e       1e+03
+o2_e       565        ala__L_e  968
+no2_e      476        pi_e      967
+arab__L_e  431        h2o_e     462
+thr__L_e    39.9      abt__L_e  431
+4hphac_e    32.4      nh4_e     392
+leu__L_e    23.2      h_e        49.9
+val__L_e    21.8      etoh_e     26.9
+asp__L_e    17.7      glyclt_e    8.49
+lys__L_e    17.7      ala__D_e    5.31
+skm_e       16.7
+arg__L_e    15.3
+ile__L_e    15
+3gmp_e      12.5
+asn__L_e    12.4
+pro__L_e    11.4
+ser__L_e    11.1
+adn_e       10.5
+acnam_e     10.3
+k_e         10.1
+cytd_e       8.28
+metox_e      7.94
+uri_e        7.44
+udcpp_e      5.16
+his__L_e     4.89
+cgly_e       4.75
+trp__L_e     2.93
+thymd_e      1.36
+fe3_e        0.749
+mg2_e        0.448
+ca2_e        0.269
+cl_e         0.269
+so4_e        0.224
+dextrin_e    0.0954
+cu2_e        0.0366
+mn2_e        0.0357
+pnto__R_e    0.0297
+ribflv_e     0.023
+zn2_e        0.0176
+thm_e        0.0115
+cobalt2_e    0.00516
+PID: 10316, Process Name: Process-21, Thread Name: MainThread
+merged_community/lactobacillus_parabuchneri.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+thymd_e       1e+03    co2_e       1e+03  Growth  31.3
+o2_e        268        thym_e      1e+03
+h2o_e       111        acald_e   960
+nh4_e        25.5      btd_RR_e  443
+gln__L_e     21.4      glyclt_e   12.2
+ala__L_e     18.6
+asp__L_e     17.7
+man6p_e      17.6
+gly_e        15
+leu__L_e     13.7
+val__L_e     12.8
+2pglyc_e     12.2
+lys__L_e     10.4
+uri_e        10
+arg__L_e      8.98
+ile__L_e      8.82
+thr__L_e      7.7
+gua_e         7.37
+ade_e         6.18
+ala__D_e      6.07
+k_e           5.93
+metox__R_e    4.67
+glu__L_e      4.35
+h_e           4.32
+ser__L_e      2.97
+his__L_e      2.88
+cgly_e        2.78
+xyl__D_e      2.13
+fe3_e         0.441
+mg2_e         0.263
+ca2_e         0.158
+cl_e          0.158
+h2s_e         0.132
+nmn_e         0.0692
+cu_e          0.0215
+mn2_e         0.021
+coa_e         0.0175
+ribflv_e      0.0135
+zn2_e         0.0104
+pydxn_e       0.00677
+thm_e         0.00677
+but_e         0.00304
+cobalt2_e     0.00304
+mmet_e        0.00304
+PID: 10347, Process Name: Process-52, Thread Name: MainThread
+merged_community/serinicoccus_chungangensis.xml
+IN FLUXES             OUT FLUXES          OBJECTIVES
+--------------------  ------------------  ------------
+dha_e        1e+03    abt__L_e    1e+03   Growth  44.1
+arab__L_e    1e+03    ac_e        1e+03
+h2o_e        1e+03    co2_e       1e+03
+no3_e        1e+03    h_e         1e+03
+glyald_e   830        nh4_e       1e+03
+o2_e       537        no2_e       1e+03
+arg__L_e   497        ala__L_e  978
+ptrc_e     479        glyc_e    830
+acac_e     148        pyr_e     400
+fe2_e      147        orn_e     354
+dca_e      127        fe3_e     146
+thr__L_e    91.1      pro__L_e  121
+pi_e        33.4      aso3_e     16
+3mb_e       19.2      etoh_e      0.0138
+xyl__D_e    18.4
+gln__L_e    17.8
+skm_e       16.2
+aso4_e      16
+lys__L_e    14.6
+uri_e       13
+h2s_e       10.5
+gua_e       10.3
+asn__L_e    10.3
+ade_e        8.72
+k_e          8.33
+glu__L_e     4.65
+uaagmda_e    4.27
+thymd_e      1.13
+malthp_e     0.684
+mg2_e        0.37
+ca2_e        0.222
+cl_e         0.222
+so4_e        0.185
+nmn_e        0.0972
+cu_e         0.0303
+mn2_e        0.0295
+fol_e        0.0285
+pnto__R_e    0.0246
+zn2_e        0.0145
+thm_e        0.00951
+cobalt2_e    0.00427
+PID: 10332, Process Name: Process-37, Thread Name: MainThread
+merged_community/petrimonas_mucosa.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+uri_e       574        acald_e     1e+03   Growth  31.2
+adn_e       439        co2_e       1e+03
+duri_e      430        ura_e       1e+03
+o2_e        257        inost_e   522
+no3_e       192        ade_e     430
+h_e         140        glu__L_e   37.7
+nh4_e        48.9      glyclt_e    0.0202
+pi_e         29.7
+ser__L_e     18.1
+thr__L_e     16.4
+h2o_e         6.48
+k_e           5.89
+pac_e         5.59
+cytd_e        4.84
+h2s_e         4.64
+dgsn_e        4.48
+4hphac_e      4.17
+cgly_e        2.79
+id3acald_e    1.72
+thymd_e       0.789
+fe3_e         0.438
+mg2_e         0.262
+ca2_e         0.157
+cl_e          0.157
+so4_e         0.131
+nmn_e         0.0687
+cu2_e         0.0214
+mn2_e         0.0208
+zn2_e         0.0103
+cobalt2_e     0.00302
+PID: 10346, Process Name: Process-51, Thread Name: MainThread
+merged_community/sediminibacterium_salmoneum.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+glu__L_e     1e+03    co2_e       1e+03    Growth  23.9
+o2_e       776        h_e         1e+03
+fe3_e      279        nh4_e       1e+03
+lcts_e     259        succ_e    993
+no2_e      153        mal__L_e  429
+pi_e        18.1      etoh_e    371
+lys__L_e    14.6      fe2_e     278
+arg__L_e    14.5      acald_e    23.5
+skm_e        8.8      fum_e      17.2
+gthrd_e      5.46     orn_e       7.63
+pro__L_e     5.11     bz_e        6.71
+k_e          4.51     ac_e        3.56
+h2s_e        3.56     cgly_e      3.34
+uaagmda_e    2.31     glyb_e      0.1
+mg2_e        0.2      glyc_e      0.00231
+ca2_e        0.12
+cl_e         0.12
+chols_e      0.1
+cu_e         0.0164
+mn2_e        0.016
+coa_e        0.0133
+thym_e       0.0121
+cit_e        0.00788
+zn2_e        0.00788
+pydxn_e      0.00515
+thm_e        0.00515
+cobalt2_e    0.00231
+PID: 10352, Process Name: Process-57, Thread Name: MainThread
+merged_community/sporosarcina_koreensis.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+3gmp_e       1e+03    co2_e       1e+03  Growth  29.7
+glu__L_e     1e+03    succ_e      1e+03
+h2o_e        1e+03    urate_e   999
+mal__L_e     1e+03    pi_e      989
+o2_e         1e+03    nh4_e     983
+h_e        435        ala__D_e  981
+no_e       406        fum_e     594
+gthrd_e    392        asp__L_e  392
+h2o2_e     195        inost_e   331
+h2_e        18.7      gthox_e   195
+gly_e       16.8      acald_e     4.9
+leu__L_e    13        cgly_e      1.73
+val__L_e    12.2
+3amp_e      11.5
+lys__L_e     9.86
+skm_e        9.29
+arg__L_e     8.5
+ile__L_e     8.35
+gln__L_e     7.57
+asn__L_e     6.93
+pro__L_e     6.35
+4hphac_e     5.83
+dcyt_e       5.67
+k_e          5.61
+metox_e      4.42
+cytd_e       3.83
+uaagmda_e    2.87
+his__L_e     2.72
+so3_e        2.65
+trp__L_e     1.63
+hdca_e       1.17
+fe2_e        0.417
+mg2_e        0.249
+ca2_e        0.15
+cl_e         0.15
+so4_e        0.125
+nac_e        0.0655
+cu2_e        0.0204
+mn2_e        0.0199
+fol_e        0.0192
+pnto__R_e    0.0166
+ribflv_e     0.0128
+zn2_e        0.0098
+thm_e        0.00641
+cobalt2_e    0.00287
+thymd_e      0.00287
+PID: 10325, Process Name: Process-30, Thread Name: MainThread
+merged_community/leptospira_alstonii.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+glyc3p_e     1e+03    co2_e       1e+03    Growth  39.7
+no3_e      859        h2o_e       1e+03
+no_e       811        pi_e      962
+glu__L_e   786        asp__L_e  901
+h_e        513        pyr_e     861
+fe3_e      298        nh4_e     783
+o2_e       250        n2o_e     405
+ala__L_e   153        fe2_e     298
+gthox_e    105        cgly_e    209
+ser__D_e    53.1      h2o2_e    105
+dextrin_e   14.4      ac_e       82.8
+asn__L_e     9.26     oxa_e       0.0257
+pro__L_e     8.49     glyc_e      0.00384
+acnam_e      7.68     dms_e       0.00384
+ala__D_e     7.68
+k_e          7.5
+met__L_e     5.89
+h2s_e        3.56
+gly_e        1.64
+csn_e        1
+mg2_e        0.333
+ca2_e        0.2
+cl_e         0.2
+so4_e        0.167
+fru_e        0.0875
+cu2_e        0.0272
+mn2_e        0.0265
+for_e        0.0257
+zn2_e        0.0131
+thm_e        0.00856
+cobalt2_e    0.00384
+dmso_e       0.00384
+PID: 10338, Process Name: Process-43, Thread Name: MainThread
+merged_community/prevotella_ruminicola.xml
+IN FLUXES              OUT FLUXES           OBJECTIVES
+---------------------  -------------------  ------------
+no3_e         1e+03    ac_e          1e+03  Growth  57.3
+o2_e          1e+03    ade_e         1e+03
+h2_e          1e+03    co2_e         1e+03
+h2o_e       644        for_e         1e+03
+adn_e       600        h_e           1e+03
+LalaLglu_e  520        no2_e         1e+03
+dad_2_e     416        acald_e     888
+dcyt_e      362        nh4_e       647
+man1p_e     193        ala__L_e    475
+fum_e       148        ura_e       362
+so3_e       119        glcur_e     340
+dgsn_e      109        12ppd__S_e  338
+citr__L_e    34.8      pyr_e       150
+leu__L_e     25        succ_e      148
+ser__D_e     16.4      pi_e        144
+ile__L_e     16.1      h2s_e       110
+gly_e        13.6      xtsn_e       95.8
+k_e          10.8      val__L_e     75.1
+pac_e        10.3      pro__L_e      6.09
+4hphac_e      7.67     lac__D_e      5.55
+anhgm_e       5.55     ins_e         5.26
+udcpp_e       5.55
+cgly_e        5.13
+cit_e         0.867
+mg2_e         0.481
+fe3_e         0.433
+fe2_e         0.373
+ca2_e         0.289
+cl_e          0.289
+so4_e         0.241
+cu2_e         0.0393
+mn2_e         0.0383
+fol_e         0.0371
+zn2_e         0.0189
+cobalt2_e     0.00555
+PID: 10353, Process Name: Process-58, Thread Name: MainThread
+merged_community/sporosarcina_newyorkensis.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+tartr__L_e    1e+03    succ_e      1e+03  Growth  45.9
+glu__L_e      1e+03    co2_e       1e+03
+gam6p_e     506        asp__L_e  989
+no2_e       333        ala__D_e  975
+nh4_e       143        h2o_e     932
+arg__L_e     22.3      pi_e      486
+gly_e        20.5      h_e       302
+leu__L_e     20        urea_e      9.17
+val__L_e     18.8      etoh_e      9.08
+lys__L_e     15.2
+3cmp_e       14.7
+gln__L_e     14.2
+ser__L_e     13.3
+ile__L_e     12.9
+thr__L_e     11.3
+gsn_e        10.8
+asn__L_e     10.7
+pro__L_e      9.82
+dad_2_e       9.07
+k_e           8.67
+phe__L_e      8.23
+met__L_e      6.84
+tyr__L_e      6.13
+uaagmda_e     4.44
+his__L_e      4.21
+cgly_e        4.1
+mg2_e         0.385
+fe3_e         0.347
+fe2_e         0.298
+ca2_e         0.231
+cl_e          0.231
+so4_e         0.193
+o2_e          0.136
+cu2_e         0.0315
+mn2_e         0.0307
+pnto__R_e     0.0256
+ribflv_e      0.0198
+zn2_e         0.0151
+cobalt2_e     0.00444
+PID: 10351, Process Name: Process-56, Thread Name: MainThread
+merged_community/sporolactobacillus_vineae.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+akg_e      920        succ_e      1e+03  Growth  32.1
+no2_e      377        co2_e     976
+man_e      336        lac__L_e  914
+acald_e    117        nh4_e     362
+4abut_e     99.5      h_e       290
+tre_e       92.2
+pi_e        30.6
+mal__L_e    18.1
+gly_e       15.4
+lys__L_e    10.7
+arg__L_e     9.2
+ile__L_e     9.03
+thr__L_e     7.89
+ser__L_e     7.54
+gua_e        7.53
+pro__L_e     6.87
+hxan_e       6.35
+acgam_e      6.22
+k_e          6.07
+phe__L_e     5.76
+ura_e        5.3
+csn_e        4.99
+met__L_e     4.79
+tyr__L_e     4.29
+his__L_e     2.95
+cgly_e       2.86
+trp__L_e     1.77
+mg2_e        0.27
+fe3_e        0.243
+fe2_e        0.209
+ca2_e        0.162
+cit_e        0.162
+cl_e         0.162
+so4_e        0.135
+nmn_e        0.0708
+cu2_e        0.022
+mn2_e        0.0215
+fol_e        0.0208
+pnto__R_e    0.0179
+ribflv_e     0.0139
+zn2_e        0.0106
+thm_e        0.00693
+cobalt2_e    0.00311
+skm_e        0.00311
+PID: 10335, Process Name: Process-40, Thread Name: MainThread
+merged_community/pontibaca_methylaminivorans.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+o2_e          1e+03    ac_e        1e+03  Growth  43.3
+no3_e         1e+03    co2_e       1e+03
+4abut_e     639        h2co3_e     1e+03
+fum_e       627        h_e         1e+03
+h2o_e       568        no2_e       1e+03
+ser__L_e    464        glyclt_e  883
+3gmp_e      446        glu__L_e  639
+cit_e       444        succ_e    627
+aso4_e      382        gua_e     436
+fru_e       320        pi_e      431
+acald_e     275        aso3_e    382
+26dap__M_e   18.6      etoh_e    275
+3amp_e       12.5      nh4_e     219
+arg__L_e     12.4      pyr_e     168
+h2s_e        10.3      orn_e      12.4
+asn__L_e     10.1      xtsn_e      3.97
+pro__L_e      9.27
+k_e           8.19
+3ump_e        7.14
+3cmp_e        6.73
+fe2_e         0.609
+mg2_e         0.364
+ca2_e         0.218
+cl_e          0.218
+so4_e         0.182
+cu2_e         0.0297
+mn2_e         0.029
+coa_e         0.0242
+zn2_e         0.0143
+pydxn_e       0.00935
+thm_e         0.00935
+cobalt2_e     0.00419
+bz_e          0.00419
+PID: 10357, Process Name: Process-62, Thread Name: MainThread
+merged_community/sulfuricella_denitrificans.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+glu__L_e      1e+03    ala__L_e    1e+03  Growth  28.8
+2pg_e       975        co2_e       1e+03
+no3_e       971        no2_e     971
+LalaLglu_e  687        pi_e      948
+o2_e        371        ala__D_e  767
+no_e        366        gly_e     764
+man_e       272        pyr_e     752
+oaa_e        79.5      icit_e    690
+nh4_e        78        ac_e        4.3
+h2s_e         8.59     s_e         4.29
+progly_e      6.18
+k_e           5.45
+thym_e        4.3
+cgly_e        2.58
+mg2_e         0.242
+fe3_e         0.218
+fe2_e         0.188
+ca2_e         0.145
+cl_e          0.145
+so4_e         0.121
+cit_e         0.0316
+cu2_e         0.0198
+mn2_e         0.0193
+4abz_e        0.0187
+zn2_e         0.00953
+cobalt2_e     0.00279
+PID: 10329, Process Name: Process-34, Thread Name: MainThread
+merged_community/mycobacterium_simiae.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+dad_2_e      1e+03    hxan_e    995        Growth  33.7
+h2o_e      632        nh4_e     984
+o2_e       501        acald_e   955
+orn_e       82.4      pyr_e     922
+h_e         31.7      co2_e      66.3
+glyclt_e    30.8      pro__L_e   58
+pi_e        25.7      pdima_e     0.00744
+ser__L_e    20.9
+ala__D_e    16.8
+skm_e       12.4
+lys__L_e    11.2
+gly_e       11
+csn_e       10.8
+ins_e        9.76
+arg__L_e     9.66
+h2s_e        8.04
+asn__L_e     7.87
+k_e          6.37
+uaagmda_e    3.27
+malthp_e     2.34
+mg2_e        0.283
+fe3_e        0.255
+fe2_e        0.219
+ca2_e        0.17
+cl_e         0.17
+so4_e        0.142
+cu2_e        0.0232
+mn2_e        0.0226
+fol_e        0.0218
+pnto__R_e    0.0188
+zn2_e        0.0111
+pydxn_e      0.00728
+cobalt2_e    0.00327
+PID: 10324, Process Name: Process-29, Thread Name: MainThread
+merged_community/legionella_steelei.xml
+IN FLUXES             OUT FLUXES            OBJECTIVES
+--------------------  --------------------  ------------
+colipa_e     1e+03    ac_e          1e+03   Growth  63.1
+glyc3p_e     1e+03    co2_e         1e+03
+hdca_e       1e+03    gly_e         1e+03
+o2_e       998        h2o_e         1e+03
+thr__L_e   746        h_e           1e+03
+akg_e      691        hacolipa_e    1e+03
+oaa_e      679        mal__L_e      1e+03
+etha_e     549        succ_e        1e+03
+acald_e    381        pi_e        940
+glu__L_e   353        etoh_e      930
+asp__L_e   339        ala__L_e    871
+ser__L_e   185        tyr__L_e     26.3
+glc__D_e   108        cu2_e        23
+ocdcea_e    55.6      oxa_e         0.0545
+leu__L_e    27.5
+ade_e       27.3
+val__L_e    25.9
+cu_e        23
+lys__L_e    21
+orot_e      20.2
+arg__L_e    18.1
+pro__L_e    13.5
+asn__L_e    11.9
+k_e         11.9
+met__L_e     9.41
+his__L_e     5.79
+h2s_e        5.64
+drib_e       1.6
+fe2_e        0.887
+mg2_e        0.53
+ca2_e        0.318
+cl_e         0.318
+so4_e        0.265
+galt_e       0.139
+for_e        0.0545
+cit_e        0.0422
+mn2_e        0.0422
+zn2_e        0.0208
+cobalt2_e    0.00611
+PID: 10336, Process Name: Process-41, Thread Name: MainThread
+merged_community/porphyrobacter_dokdonensis.xml
+IN FLUXES                   OUT FLUXES         OBJECTIVES
+--------------------------  -----------------  ------------
+4abut_e          800        h_e         1e+03  Growth  30
+fru_e            717        succ_e      1e+03
+so3_e            333        ala__L_e  911
+o2_e             244        h2o_e     898
+glu__L_e         224        glyc_e    454
+pi_e              28.6      h2s_e     333
+dextrin_e         25.1      co2_e     300
+asn__L_e          24.2      fum_e       8.6
+ser__D_e          23.5      ac_e        5.82
+inost_e           18.9      lac__D_e    2.91
+oaa_e             15.8
+cytd_e             8.86
+adn_e              8.67
+cyst__L_e          7.15
+pro__L_e           6.43
+ile__L_e           5.78
+k_e                5.68
+gua_e              4.3
+LalaDgluMdap...    2.91
+anhgm_e            2.91
+dcyt_e             0.752
+fe3_e              0.422
+mg2_e              0.252
+ca2_e              0.151
+cl_e               0.151
+so4_e              0.126
+nmn_e              0.0663
+cu2_e              0.0206
+mn2_e              0.0201
+fol_e              0.0195
+coa_e              0.0168
+zn2_e              0.00992
+dad_2_e            0.00939
+thym_e             0.00939
+cobalt2_e          0.00291
+bz_e               0.00291
+PID: 10327, Process Name: Process-32, Thread Name: MainThread
+merged_community/methylovulum_miyakonense.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+glu__L_e   886        co2_e       1e+03  Growth  41
+galt_e     532        h2o_e       1e+03
+o2_e       369        nh4_e     971
+no3_e      362        succ_e    892
+mal__L_e    64.5      lac__L_e  802
+gal_e       37.7      h_e        33.4
+akg_e       31.2      oxa_e      18.1
+pi_e        21.1      ac_e        7.91
+for_e       18.1      h2s_e       4.91
+2pglyc_e    18.1
+3mb_e       16.9
+cgly_e      14.7
+orot_e      13.1
+arg__L_e    11.7
+gua_e        9.65
+progly_e     8.77
+k_e          7.75
+mg2_e        0.344
+fe3_e        0.31
+fe2_e        0.267
+ca2_e        0.207
+cl_e         0.207
+so4_e        0.172
+cu2_e        0.0281
+mn2_e        0.0274
+zn2_e        0.0135
+thym_e       0.0128
+bz_e         0.00397
+cobalt2_e    0.00397
+PID: 10359, Process Name: Process-64, Thread Name: MainThread
+merged_community/sulfuritalea_hydrogenivorans.xml
+IN FLUXES              OUT FLUXES           OBJECTIVES
+---------------------  -------------------  ------------
+2pg_e         1e+03    ac_e        1e+03    Growth  30.4
+no3_e         1e+03    co2_e       1e+03
+o2_e          1e+03    h_e         1e+03
+acald_e     883        no2_e       1e+03
+4abut_e     849        pi_e        1e+03
+aso4_e      482        pyr_e       1e+03
+h2o_e       199        etoh_e    883
+dca_e       188        h2_e      707
+fru_e        69.1      nh4_e     573
+raffin_e     65.7      aso3_e    482
+csn_e        42.1      icit_e    318
+galct__D_e   33.2      glyc_e     69.1
+3pg_e        29        melib_e    65.7
+leu__L_e     13.3      cytd_e     32.4
+h2s_e         7.25     glyclt_e    0.00656
+k_e           5.75
+progly_e      5.66
+mg2_e         0.255
+fe3_e         0.23
+fe2_e         0.198
+ca2_e         0.153
+cl_e          0.153
+so4_e         0.128
+cu2_e         0.0209
+mn2_e         0.0203
+fol_e         0.0197
+pnto__R_e     0.017
+zn2_e         0.01
+bz_e          0.00294
+cobalt2_e     0.00294
+PID: 10355, Process Name: Process-60, Thread Name: MainThread
+merged_community/streptomyces_aidingensis.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+glycogen_e    1e+03    ac_e       1e+03    Growth  50.8
+no3_e       464        co2_e      1e+03
+no2_e       314        pyr_e    903
+acald_e     119        nh4_e    684
+thr__L_e     68.3      h2o_e    617
+asn__L_e     31.5      h_e      351
+pi_e         28.6      pdima_e    0.0112
+cit_e        25.9      glyc_e     0.00492
+lys__L_e     16.9
+arg__L_e     14.5
+gua_e        12
+progly_e     10.9
+k_e           9.6
+thym_e        8.87
+h2s_e         7.57
+cmp_e         7.4
+ade_e         7.39
+uaagmda_e     4.92
+his__L_e      4.66
+cgly_e        4.54
+amp_e         2.66
+mg2_e         0.427
+fe3_e         0.384
+fe2_e         0.33
+ca2_e         0.256
+cl_e          0.256
+so4_e         0.213
+cu2_e         0.0349
+mn2_e         0.034
+pnto__R_e     0.0283
+zn2_e         0.0168
+o2_e          0.011
+cobalt2_e     0.00492
+PID: 10349, Process Name: Process-54, Thread Name: MainThread
+merged_community/sphingobacterium_mizutaii.xml
+IN FLUXES             OUT FLUXES          OBJECTIVES
+--------------------  ------------------  ------------
+o2_e       343        co2_e       1e+03   Growth  30.2
+no_e       303        ac_e      683
+akg_e      279        h_e       567
+tre_e      258        h2o_e     539
+taur_e      40.5      succ_e    261
+asp__L_e    39        ala__L_e  251
+pi_e        20.1      h2s_e      33.3
+leu__L_e    13.2      nh4_e       4.33
+val__L_e    12.4      oxa_e       0.0196
+arg__L_e     8.66     mal__L_e    0.0117
+ile__L_e     8.5
+cytd_e       8.13
+gmp_e        7.12
+pro__L_e     6.47
+acnam_e      5.85
+k_e          5.71
+phe__L_e     5.42
+adn_e        5.21
+no2_e        4.33
+tyr__L_e     4.04
+his__L_e     2.77
+trp__L_e     1.66
+dcmp_e       0.791
+thymd_e      0.766
+damp_e       0.766
+fe2_e        0.425
+mg2_e        0.254
+ca2_e        0.152
+cl_e         0.152
+so4_e        0.127
+nmn_e        0.0667
+cu_e         0.0208
+mn2_e        0.0202
+for_e        0.0196
+skm_e        0.0196
+zn2_e        0.00998
+pydxn_e      0.00653
+thm_e        0.00653
+bz_e         0.00293
+cobalt2_e    0.00293
+tsul_e       0.00293
+PID: 10360, Process Name: Process-65, Thread Name: MainThread
+merged_community/teredinibacter_turnerae.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+glu__L_e     1e+03    ac_e        1e+03  Growth  59.8
+o2_e       727        co2_e       1e+03
+no3_e      554        gly_e       1e+03
+ser__D_e   515        h_e       885
+acald_e    498        asp__L_e  870
+melib_e    230        for_e     731
+23camp_e   132        nh4_e     305
+gthrd_e     36.3      h2o_e     133
+h2s_e       14.2      glyclt_e  115
+pro__L_e    12.8      pi_e       75.3
+k_e         11.3      cgly_e     36.3
+gua_e        8.6
+mg2_e        0.502
+fe3_e        0.452
+fe2_e        0.389
+ca2_e        0.301
+cl_e         0.301
+so4_e        0.251
+nmn_e        0.132
+cu2_e        0.0411
+cit_e        0.04
+mn2_e        0.04
+pnto__R_e    0.0334
+zn2_e        0.0197
+thm_e        0.0129
+cobalt2_e    0.00579
+PID: 10341, Process Name: Process-46, Thread Name: MainThread
+merged_community/pseudomonas_alcaligenes.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+adn_e        1e+03    ac_e        1e+03  Growth  58.3
+no3_e        1e+03    co2_e       1e+03
+o2_e         1e+03    h_e         1e+03
+h2o_e      769        nh4_e       1e+03
+glu__L_e   558        no2_e       1e+03
+arg__L_e   443        lac__D_e  995
+cu_e       406        ade_e     988
+ser__L_e   350        ala__L_e  954
+acon_C_e   144        glyclt_e  685
+ocdcea_e   112        pro__L_e  414
+glyc_e     104        cu2_e     405
+2pglyc_e    55.6      icit_e    201
+leu__L_e    25.4      for_e       0.138
+val__L_e    23.9
+lys__L_e    19.4
+ura_e       18.7
+phe__L_e    18.2
+ile__L_e    16.4
+thr__L_e    14.3
+ins_e       13.7
+k_e         11
+met__L_e     8.68
+his__L_e     5.34
+h2s_e        5.21
+trp__L_e     3.21
+fe2_e        0.819
+mg2_e        0.489
+ca2_e        0.294
+cl_e         0.294
+so4_e        0.245
+mn2_e        0.039
+zn2_e        0.0192
+bz_e         0.00564
+cobalt2_e    0.00564
+PID: 10331, Process Name: Process-36, Thread Name: MainThread
+merged_community/nocardia_jejuensis.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+4abut_e       1e+03    h_e         1e+03  Growth  31.6
+glyald_e      1e+03    succ_e      1e+03
+o2_e        447        nh4_e     956
+no_e        447        ala__D_e  839
+urea_e      214        h2o_e     480
+glyc_e       24.4      co2_e     328
+glyc3p_e     21.5      asp__L_e    9.74
+asn__L_e     17.1
+thr__L_e     16.7
+gly_e        15
+ser__L_e     13.2
+gln__L_e     11
+lys__L_e     10.5
+fum_e        10.4
+arg__L_e      9.06
+cit_e         8.21
+gua_e         7.43
+cellb_e       7.22
+pro__L_e      6.77
+ade_e         6.26
+acgam_e       6.13
+k_e           5.98
+ump_e         5.21
+cytd_e        4.92
+met__L_e      4.71
+ppt_e         3.48
+h2s_e         2.83
+id3acald_e    1.74
+mg2_e         0.266
+fe3_e         0.239
+fe2_e         0.206
+ca2_e         0.159
+cl_e          0.159
+so4_e         0.133
+nac_e         0.0698
+cu2_e         0.0217
+mn2_e         0.0212
+fol_e         0.0205
+pnto__R_e     0.0176
+zn2_e         0.0104
+cobalt2_e     0.00306
+thymd_e       0.00306
+PID: 10345, Process Name: Process-50, Thread Name: MainThread
+merged_community/rhodopirellula_islandica.xml
+IN FLUXES              OUT FLUXES           OBJECTIVES
+---------------------  -------------------  ------------
+man6p_e     907        ac_e        1e+03    Growth  51.7
+o2_e        344        co2_e       1e+03
+no_e        287        h_e         1e+03
+pac_e       178        pi_e      905
+no2_e       157        lac__D_e  786
+pro__L_e     43        nh4_e     308
+btd_RR_e     40.2      pacald_e  168
+pser__D_e    38.3      acald_e    40.2
+h2_e         38.1      tol_e      32
+bz_e         32        s_e         2.55
+icit_e       26.4      for_e       0.123
+leu__L_e     22.6      oxa_e       0.0335
+lys__L_e     17.2      4hba_e      0.0112
+uri_e        15.3      glyald_e    0.00501
+adn_e        15        hxan_e      0.00501
+h2s_e        14.9
+arg__L_e     14.8
+ile__L_e     14.5
+thr__L_e     12.7
+val__L_e     11.4
+k_e           9.77
+gua_e         7.44
+4hphac_e      6.92
+uaagmda_e     5.01
+id3acald_e    2.85
+thymd_e       1.31
+fe2_e         0.727
+mg2_e         0.434
+ca2_e         0.261
+cl_e          0.261
+so4_e         0.217
+cu_e          0.0355
+mn2_e         0.0346
+4abz_e        0.0335
+pnto__R_e     0.0288
+zn2_e         0.0171
+cobalt2_e     0.00501
+skm_e         0.00501
+so3_e         0.00372
+PID: 10340, Process Name: Process-45, Thread Name: MainThread
+merged_community/pseudomonas_aestusnigri.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+acald_e      1e+03    pyr_e       1e+03    Growth  73.6
+g1p_e        1e+03    ac_e        1e+03
+glu__L_e     1e+03    ala__L_e    1e+03
+no3_e      833        co2_e       1e+03
+gthrd_e    629        gly_e       1e+03
+o2_e       619        h_e         1e+03
+ser__D_e   488        pi_e        1e+03
+fe2_e      112        h2o_e     970
+glyc_e      97.8      cgly_e    629
+g3ps_e      70.1      icit_e    591
+lys__L_e    24.5      ala__D_e  509
+csn_e       23.6      fe3_e     111
+ile__L_e    20.7      nh4_e      61
+thr__L_e    18.1      glyclt_e    0.0636
+h2s_e       17.6      tma_e       0.00713
+gua_e       17.3
+pro__L_e    15.8
+ade_e       14.6
+k_e         13.9
+chtbs_e      7.13
+mg2_e        0.618
+ca2_e        0.371
+cl_e         0.371
+so4_e        0.309
+nmn_e        0.162
+cu_e         0.0505
+mn2_e        0.0493
+ala_B_e      0.0411
+zn2_e        0.0243
+bz_e         0.00713
+cobalt2_e    0.00713
+tmao_e       0.00713
+PID: 10356, Process Name: Process-61, Thread Name: MainThread
+merged_community/streptomyces_albus.xml
+IN FLUXES              OUT FLUXES        OBJECTIVES
+---------------------  ----------------  ------------
+akg_e         1e+03    ac_e       1e+03  Growth  71.2
+man6p_e       1e+03    co2_e      1e+03
+no2_e       933        h2co3_e    1e+03
+o2_e        500        succ_e     1e+03
+h2o_e       329        pi_e     985
+acald_e     176        pyr_e    922
+ser__D_e     42.4      nh4_e    718
+thr__L_e     37.5      h_e       87.3
+cit_e        36.4
+lys__L_e     23.7
+skm_e        22.3
+arg__L_e     20.4
+asn__L_e     16.6
+mal__L_e     16.6
+pro__L_e     15.2
+gua_e        14.9
+3amp_e       14.1
+k_e          13.5
+3cmp_e       11.1
+met__L_e     10.6
+3ump_e        9.94
+uaagmda_e     6.89
+his__L_e      6.53
+h2s_e         6.38
+id3acald_e    3.92
+3gmp_e        1.86
+dtmp_e        1.8
+mg2_e         0.598
+fe3_e         0.538
+fe2_e         0.463
+cl_e          0.359
+ca2_e         0.359
+so4_e         0.299
+nmn_e         0.157
+cu2_e         0.0489
+mn2_e         0.0476
+pnto__R_e     0.0397
+zn2_e         0.0235
+pydxn_e       0.0154
+cobalt2_e     0.00689
+PID: 10348, Process Name: Process-53, Thread Name: MainThread
+merged_community/simiduia_agarivorans.xml
+IN FLUXES                  OUT FLUXES         OBJECTIVES
+-------------------------  -----------------  ------------
+glu__L_e        995        h2o_e       1e+03  Growth  43.1
+no3_e           938        asp__L_e  935
+g3ps_e          394        co2_e     786
+g3pg_e          303        gly_e     665
+o2_e             92.4      pi_e      657
+glcur_e          66.8      pyr_e     427
+thr__L_e         22.7      ala__L_e  399
+dextrin_e        15.2      glc__D_e  238
+lys__L_e         14.3      malt_e    119
+tet_e            12.6      tsul_e     25.2
+arg__L_e         12.4      ac_e       18.6
+h2s_e            10.3
+asn__L_e         10.1
+pro__L_e          9.23
+k_e               8.15
+chtbs_e           4.18
+dtmp_e            1.09
+fe2_e             0.606
+mg2_e             0.362
+glycogen1500_e    0.318
+ca2_e             0.217
+cl_e              0.217
+so4_e             0.181
+nmn_e             0.0951
+cu2_e             0.0296
+mn2_e             0.0289
+pnto__R_e         0.0241
+zn2_e             0.0142
+bz_e              0.00418
+cobalt2_e         0.00418
+PID: 10334, Process Name: Process-39, Thread Name: MainThread
+merged_community/polaromonas_naphthalenivorans.xml
+IN FLUXES              OUT FLUXES       OBJECTIVES
+---------------------  ---------------  ------------
+acald_e       1e+03    ac_e      1e+03  Growth  35.9
+no3_e       819        co2_e     1e+03
+fru_e       743        nh4_e     1e+03
+pro__L_e    300        pyr_e     1e+03
+no2_e        51.3      h2o_e   547
+2dhglcn_e    46        glyc_e  486
+gln__L_e     42.3      h_e      31.9
+pi_e         34.3      succ_e   26.5
+tartr__L_e   26.5
+gua_e        15.5
+skm_e        13.2
+lys__L_e     11.9
+ura_e        11.5
+ppa_e        10.1
+h2s_e         8.55
+k_e           6.78
+14glucan_e    4.39
+his__L_e      3.29
+mg2_e         0.302
+fe3_e         0.271
+fe2_e         0.233
+ca2_e         0.181
+cl_e          0.181
+so4_e         0.151
+cu2_e         0.0246
+mn2_e         0.024
+fol_e         0.0233
+zn2_e         0.0119
+o2_e          0.00775
+thm_e         0.00775
+bz_e          0.00348
+cobalt2_e     0.00348
+PID: 10350, Process Name: Process-55, Thread Name: MainThread
+merged_community/sphingomonas_sanxanigenens.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+akg_e         1e+03    icit_e      1e+03   Growth  46.2
+glu__L_e      1e+03    ac_e        1e+03
+o2_e          1e+03    co2_e       1e+03
+no3_e       689        h_e         1e+03
+cu_e        685        succ_e      1e+03
+fru_e       418        nh4_e     976
+oaa_e       227        no2_e     689
+dcyt_e      172        cu2_e     685
+dxyl_e       49.2      asp__L_e  291
+pi_e         44.1      cgly_e     25.5
+gthrd_e      25.5      etoh_e      7.69
+lys__L_e     15.3      glyclt_e    0.0551
+skm_e        14.5
+orot_e       13.6
+adn_e        13.4
+arg__L_e     13.2
+dextrin_e    12.7
+h2s_e        11
+pro__L_e      9.89
+k_e           8.73
+gua_e         6.64
+id3acald_e    2.54
+thymd_e       1.17
+fe2_e         0.649
+mg2_e         0.388
+ca2_e         0.233
+cl_e          0.233
+so4_e         0.194
+mn2_e         0.0309
+pnto__R_e     0.0258
+cit_e         0.0152
+zn2_e         0.0152
+bz_e          0.00447
+cobalt2_e     0.00447
+PID: 10328, Process Name: Process-33, Thread Name: MainThread
+merged_community/microvirga_massiliensis.xml
+IN FLUXES              OUT FLUXES          OBJECTIVES
+---------------------  ------------------  ------------
+amp_e         1e+03    ac_e        1e+03   Growth  41.3
+h2o_e         1e+03    co2_e       1e+03
+o2_e          1e+03    nh4_e       1e+03
+cgly_e      316        hxan_e    982
+glu__L_e    316        pi_e      961
+skm_e       281        gthrd_e   312
+dcyt_e       72.2      inost_e   306
+h_e          46.2      34dhbz_e  273
+dxyl_e       44        glyclt_e   95
+lac__L_e     28.9      acald_e    70.1
+tartr__D_e   23.4      succ_e      0.0871
+akg_e        21.4
+leu__L_e     18
+lys__L_e     13.7
+arg__L_e     11.8
+ile__L_e     11.6
+thr__L_e     10.1
+pro__L_e      8.84
+k_e           7.8
+phe__L_e      7.4
+met__L_e      6.16
+his__L_e      3.79
+mg2_e         0.347
+fe3_e         0.312
+fe2_e         0.268
+ca2_e         0.208
+cl_e          0.208
+so4_e         0.173
+tartr__L_e    0.0871
+cu_e          0.0283
+mn2_e         0.0276
+fol_e         0.0267
+zn2_e         0.0136
+thm_e         0.00891
+bz_e          0.004
+cobalt2_e     0.004
+PID: 10362, Process Name: Process-67, Thread Name: MainThread
+merged_community/vibrio_sonorensis.xml
+IN FLUXES                  OUT FLUXES          OBJECTIVES
+-------------------------  ------------------  ------------
+duri_e            1e+03    ac_e        1e+03   Growth  57.6
+h2o_e             1e+03    nh4_e       1e+03
+arg__L_e        525        ura_e       1e+03
+so3_e           281        co2_e     636
+o2_e            158        lac__D_e  571
+asp__L_e         98.1      orn_e     508
+adn_e            59.7      h2s_e     275
+gly_e            34.2      pyr_e     212
+pi_e             31        h_e       131
+thr__L_e         30.4      fum_e      84.7
+glu__L_e         29.4      ade_e      49.8
+leu__L_e         25.2      glyclt_e    0.0373
+lys__L_e         19.2
+ser__L_e         17.2
+gua_e            13.6
+asn__L_e         13.5
+man1p_e          12.6
+pro__L_e         12.3
+gam6p_e          11.2
+k_e              10.9
+uri_e             9.55
+met__L_e          8.59
+cytd_e            7.45
+LalaDgluMdap_e    5.58
+his__L_e          5.29
+id3acald_e        3.17
+dad_2_e           1.51
+thymd_e           1.46
+mg2_e             0.484
+fe3_e             0.436
+fe2_e             0.375
+ca2_e             0.291
+cl_e              0.291
+so4_e             0.242
+nmn_e             0.127
+cu2_e             0.0396
+mn2_e             0.0386
+coa_e             0.0322
+zn2_e             0.019
+thm_e             0.0124
+cobalt2_e         0.00558
+Parallel time= 20.83278512954712
+PID: 10344, Process Name: Process-49, Thread Name: MainThread
+merged_community/pseudomonas_syringae.xml
+IN FLUXES               OUT FLUXES           OBJECTIVES
+----------------------  -------------------  ------------
+akg_e          1e+03    no2_e       1e+03    Growth  93.3
+no3_e          1e+03    ac_e        1e+03
+o2_e           1e+03    co2_e       1e+03
+glyc3p_e     949        gly_e       1e+03
+arg__L_e     820        nh4_e       1e+03
+4abut_e      706        pi_e        1e+03
+pac_e        669        asp__L_e  833
+ser__L_e     534        icit_e    695
+acald_e      283        pacald_e  669
+man6p_e      140        h_e       540
+phe__L_e      62.4      orn_e     431
+leu__L_e      40.7      pro__L_e  342
+lys__L_e      31        etoh_e    283
+uri_e         29.9      h2_e       91.3
+ile__L_e      26.2      lac__L_e    9.03
+galctr__D_e   22.9      so3_e       8.35
+gua_e         22        adn_e       0.00903
+ade_e         18.5
+k_e           17.6
+met__L_e      13.9
+tyr__L_e      12.5
+anhgm_e        9.03
+his__L_e       8.56
+tsul_e         8.35
+id3acald_e     5.14
+fe3_e          1.31
+mg2_e          0.784
+ca2_e          0.47
+cl_e           0.47
+so4_e          0.392
+cu2_e          0.0641
+mn2_e          0.0624
+skm_e          0.0604
+ala_B_e        0.052
+zn2_e          0.0308
+4hbz_e         0.00903
+cobalt2_e      0.00903
+PID: 10361, Process Name: Process-66, Thread Name: MainThread
+merged_community/tolumonas_auensis.xml
+IN FLUXES             OUT FLUXES         OBJECTIVES
+--------------------  -----------------  ------------
+glu__L_e   923        ac_e        1e+03  Growth  63.4
+no2_e      831        co2_e       1e+03
+acald_e    792        nh4_e       1e+03
+o2_e       258        succ_e      1e+03
+gln__L_e   106        ala__L_e  653
+malthp_e    83.7      h_e       267
+2pg_e       69.8      h2o_e     263
+oaa_e       35.8      for_e     218
+leu__L_e    27.6      icit_e     15.8
+val__L_e    26        pi_e        9.47
+ptrc_e      24.5      glyclt_e    0.041
+lys__L_e    21.1
+ura_e       20.3
+thr__L_e    18.4
+arg__L_e    18.1
+ile__L_e    17.8
+pro__L_e    13.6
+k_e         12
+phe__L_e    11.4
+met__L_e     9.44
+tyr__L_e     8.46
+his__L_e     5.81
+cgly_e       5.65
+trp__L_e     3.49
+mg2_e        0.532
+fe3_e        0.452
+fe2_e        0.439
+ca2_e        0.319
+cl_e         0.319
+so4_e        0.266
+nmn_e        0.14
+cu2_e        0.0435
+cit_e        0.0424
+mn2_e        0.0424
+zn2_e        0.0209
+thm_e        0.0137
+cobalt2_e    0.00614
+PID: 10343, Process Name: Process-48, Thread Name: MainThread
+merged_community/pseudomonas_resinovorans.xml
+IN FLUXES              OUT FLUXES         OBJECTIVES
+---------------------  -----------------  ------------
+arg__L_e      1e+03    ac_e        1e+03  Growth  95.9
+acald_e       1e+03    ala__L_e    1e+03
+akg_e         1e+03    co2_e       1e+03
+glyc3p_e      1e+03    nh4_e       1e+03
+glu__L_e    947        orn_e     952
+o2_e        565        asp__L_e  922
+no3_e       475        pi_e      909
+h2o_e       395        icit_e    905
+galct__D_e  184        glyclt_e  252
+glcn_e      112        ala__D_e   99.6
+leu__L_e     41.9      lac__D_e    9.29
+h_e          41        urate_e     2.64
+val__L_e     39.4
+lys__L_e     31.9
+ura_e        30.7
+ile__L_e     27
+thr__L_e     23.6
+gsn_e        22.6
+glc__D_e     18.8
+k_e          18.1
+phe__L_e     17.2
+ins_e        16.8
+so3_e        15.7
+tyr__L_e     12.8
+anhgm_e       9.29
+his__L_e      8.8
+mmet_e        7.15
+trp__L_e      5.28
+dad_2_e       4.86
+fe3_e         1.35
+mg2_e         0.806
+ca2_e         0.484
+cl_e          0.484
+so4_e         0.403
+nmn_e         0.212
+cu2_e         0.0659
+mn2_e         0.0642
+skm_e         0.0622
+ala_B_e       0.0535
+zn2_e         0.0317
+thm_e         0.0207
+cobalt2_e     0.00929
+bz_e          0.00929
+PID: 10342, Process Name: Process-47, Thread Name: MainThread
+merged_community/pseudomonas_protegens.xml
+IN FLUXES             OUT FLUXES           OBJECTIVES
+--------------------  -------------------  ------------
+arg__L_e     1e+03    co2_e       1e+03    Growth  63.5
+4abut_e    557        gly_e       1e+03
+fru_e      539        nh4_e       1e+03
+ser__L_e   539        orn_e     968
+akg_e      481        succ_e    964
+o2_e       465        ala__L_e  844
+h2o_e      318        ac_e       24.1
+pi_e        60.6      urate_e     0.00615
+leu__L_e    27.7
+val__L_e    24.8
+lys__L_e    21.1
+ura_e       20.3
+ile__L_e    17.9
+thr__L_e    15.6
+gsn_e       15
+h_e         13.6
+acgam_e     12.3
+k_e         12
+phe__L_e    11.4
+ade_e       11
+sucr_e      10.5
+met__L_e     9.46
+tyr__L_e     8.49
+his__L_e     5.82
+h2s_e        5.68
+trp__L_e     3.49
+dad_2_e      1.61
+fe3_e        0.893
+mg2_e        0.533
+ca2_e        0.32
+cl_e         0.32
+so4_e        0.267
+skm_e        0.0473
+cu2_e        0.0436
+mn2_e        0.0425
+pnto__R_e    0.0354
+cit_e        0.021
+zn2_e        0.021
+cobalt2_e    0.00615
+PID: 10333, Process Name: Process-38, Thread Name: MainThread
+merged_community/plautia_stali.xml
+IN FLUXES              OUT FLUXES            OBJECTIVES
+---------------------  --------------------  ------------
+akg_e         1e+03    ac_e          1e+03   Growth  82.8
+o2_e          1e+03    acald_e       1e+03
+dad_2_e     735        ade_e         1e+03
+galct__D_e  666        co2_e         1e+03
+glu__L_e    648        h_e           1e+03
+colipa_e    490        asp__L_e    981
+hdca_e      490        icit_e      872
+so3_e       333        glyc__R_e   666
+adn_e       278        h2o_e       499
+thymd_e     265        hacolipa_e  490
+ptrc_e      233        lac__D_e    449
+gln__L_e     40.6      h2s_e       333
+gly_e        39.6      thym_e      265
+leu__L_e     36.1      inost_e     177
+val__L_e     33.9      ala__L_e     55.3
+lys__L_e     27.5      nh4_e        33.2
+cytd_e       24.4      succ_e        0.0642
+arg__L_e     23.7      glyclt_e      0.0536
+ile__L_e     23.3
+amp_e        23.1
+thrp_e       20.3
+pser__L_e    19.4
+asn__L_e     19.3
+pro__L_e     17.7
+gam6p_e      16
+k_e          15.6
+phe__L_e     14.9
+met__L_e     12.3
+tyr__L_e     11.1
+26dap__M_e    8.02
+alaala_e      8.02
+his__L_e      7.59
+cgly_e        7.39
+trp__L_e      4.56
+dcyt_e        2.09
+mg2_e         0.695
+fe3_e         0.626
+fe2_e         0.538
+ca2_e         0.417
+cl_e          0.417
+so4_e         0.348
+nmn_e         0.183
+fum_e         0.0642
+cu_e          0.0568
+mn2_e         0.0554
+skm_e         0.0536
+pnto__R_e     0.0462
+zn2_e         0.0273
+thm_e         0.0179
+bz_e          0.00802
+cobalt2_e     0.00802

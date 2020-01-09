@@ -1,0 +1,24 @@
+From Network Analysis to Functional Metabolic Modeling of the Human Gut Microbiota
+    review
+
+    1-build an interaction network on correlation matrix of species
+    2-genome scale metabolic reconstitution to build metabolic network (GEM)
+
+    -provide a list of tools for constraint-based modeling of microbial communities
+        3 types : (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5872302/table/tab2/?report=objectonly)
+            -compartment based models
+            -population-based models
+            -individual based model
+
+    -simplified microbiota models (10 species)
+
+Understanding the interactions between bacteria in the human gut through metabolic modeling
+
+    simple models (done on 3 species)
+        models of 1 bacteria or 2
+    here they start with the genome scale metabolic reconstitution
+
+
+
+CONCLU
+    Surtout des trucs de simulation

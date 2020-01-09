@@ -1,0 +1,38 @@
+FBA: 
+
+Flux Balance Analysis is a mathematical approach for analyzing the flow of metabolites through a metabolite network.
+
+It will calculate the flow of metabolites through this metabolic network, thereby understand the interaction between thoses metabolites and their influence on characteristics such as the growth rate.
+
+The first step in FBA is to mathematically represent metabolic reactions. Basically it's a numerical matrix of the stoichiometric coefficients of each reaction. These stoichiometries impose constraints on the flow of metabolites through network ensuring that the total amount of any compound being produced must be equal to the total amount being consumed at steady state.
+
+The next steap in FBA is to define a biological objective. This objective is defined by an "objective function" that indicates how much reaction contributes to the phenotype.
+
+FBA does not require kinetic parameters and can be computed very quickly even for large networks, so it can be applied in studies that characterize many different perturbations. 
+
+FBA has limitations, however. Because it does not use kinetic parameters, it cannot predict metabolite concentrations. It is also only suitable for determining fluxes at steady state. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108565/
+
+FlashWeave: 
+
+It's a new approach based on a flexible Probabilistic Graphical Models framework to infer highly resolved direct microbial interactions from massive heterogeneous microbial abundance data sets with seamless integration of metadata.
+FlashWeave is faster than the previous methods published . 
+FlashWeave Workflow: 
+
+Microbial sequencing data + meta data are normalized into a count table.
+Univariation interaction network building with a pairwise association estimation.
+Direct Interaction Network according to a conditionnal independance search.
+Introduction of variables in the analysis.
+
+There is two different modes: 
+-Homogeneous data: (better statistical power, lower speed) (few hours)
+single or few protocols, explicit meta information.
+moderate number of samples.
+-Heterogenous data: (lower statistical power, higher speed) (few minutes)
+many protocols, habitat or conditions
+large number of samples
+They did this benchmark on a 20 CPU cores on an Intel Xeon E7-4870 machine (2.4 GHz).
+
+Article: Rapid inference of direct interactions in large-scale ecological networks from heterogeneous microbial sequencing data
+

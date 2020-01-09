@@ -1,0 +1,6 @@
+lactobacillus_secaliphilus,pseudomonas_alcaligenes
+lactobacillus_zymae,nocardia_jejuensis
+xanthomonas_oryzae,lactococcus_piscium
+petrimonas_mucosa,nocardia_jejuensis
+nitratireductor_basaltis,xanthomonas_oryzae
+pseudomonas_alcaligenes,pseudomonas_alcaligenes

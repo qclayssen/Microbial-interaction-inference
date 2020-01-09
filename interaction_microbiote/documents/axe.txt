@@ -1,0 +1,17 @@
+- Récupérer les bactéries responsables du syndrome HAEC.
+- Après FlashWeave général, repérer les bactéries en co-ocurrence avec la(les) bactérie(s) impliquée(s) dans HAEC?
+- Refaire un graph FlashWeave avec uniquement ces bactéries.
+- Etudier les relations et flux entre ces bactéries via FVA FBA.
+- Annoter le petit graphique.
+- Biblio sur des régimes ou actions maximisant la production (ou diminution) des bactéries responsables du syndrome grâce aux flux métaboliques observés.
+
+potentiellement regarder la centralité des noeuds et des bactéries pathogènes.
+
+bactéries impliquées :
+- lactococcus ++
+- escherichia.Shigella ++
+- holdemania --
+- lactobacillus
+
+
+Sortir la liste des bactérie au niveau au dessus (POUR JON si vous voyez ça rappellez lui)

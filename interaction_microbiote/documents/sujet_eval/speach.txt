@@ -1,0 +1,59 @@
+projet bioinfo appliqué 2
+14 sujets
+1- modélisation OCKAI2
+plante parasite : protéines spécifiques et phylogénie
+
+2-domaines CHAISE
+    plantes parasites fonctionnement pour s'attacher
+    voie de signalisation des cytokinines regarder les récepteurs
+
+3-ATIS (gillou)
+    sites alternatifs de transcription
+    trouver les ATIS canaux sodiques etc
+
+4-miRNA (gillou)
+
+5-myopathie
+    les muscles : stylé (full scripting)
+
+6-analyse bioinfo et microsatellites
+    implication patho neuromuscu ou muscu
+    sequ codantes ou non
+    lire l'article
+
+7-insuffisance veineuse miRNA (christelle)
+    analyse puce affimetrix
+
+8-mm chose que 7 mais sur les ARN non codants
+    chercher régulateur etc
+
+9-mm chose
+    long non coding
+    basé sur 2 articles
+    expression abbérente de lnARN
+    chercher des candidats
+
+10a et 10b- inférence d'intéraction microbiennes
+    metagénomique
+    analyser données et voir ce que va produire ou consommer une bactérie et donc créer un réseau d'interaction entre bactéries
+
+11- modélisation de la réponse épitéliale
+    étude de la mise en place du microbiote
+    selec un ecosystème minimal
+    construire un modèle métabo des bactéries
+    mettre en lien avec le réseau d'un cellule épithéliale
+
+12- le rétressicement aortique calcifié
+    étudier des genes candidats
+    approche familiale pour l'étude
+
+13-région non codantes
+    mutation intronique
+    déletion intergénique -> potentiellement dans une région régulatrice
+
+14-etude de site de fixation de facteur de transcription
+    sur cardiomyocytes
+
+
+présentation projet : comment on va faire , préparer le timing etc
+amener le gouter le 21 décembre

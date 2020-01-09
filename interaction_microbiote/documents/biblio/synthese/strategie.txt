@@ -1,0 +1,17 @@
+Strategie:
+
+%de risque:
+    - Beaucoup d'outils/langages pas forcement simples a apprehende:
+        - Julia
+        - FlashWeave, difficultes de parametrage et pre traitement complique
+        - API VMH
+        - Cobra pour la FBA qui demande pas mal de devellopement notamment pour la creation du ou des modeles
+        - Analyses des resultats et parsing
+    - Pipe pour automatiser l ensemble du processus si on a le temps
+
+temps:
+    -Flashweave est faisable mais il est difficile de se rendre compte du temps necessaire pour FBA (dependra des capacites a surmonter les difficultes de parsing et de prise en main de Cobra)
+
+originalite:
+    - Methodo relativement innovante dans le sens ou FlashWeave est une methode assez nouvelle et elle na pas ete a notre connaissance piper dans FBA pour affiner le modele de FlashWeave. En sois la methodo n'est pas nouvelle mais rien que l'utilisation de FlashWeave est innovante (publiee le 13 aout)
+    -

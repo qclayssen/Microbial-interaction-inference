@@ -1,0 +1,7 @@
+eLSA : https://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-6418-1_722-5
+
+CoNet :https://f1000research.com/articles/5-1519/v2
+
+mLDM: https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30446-X?code=cell-site
+
+SparCC: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687

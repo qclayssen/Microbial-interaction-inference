@@ -1,0 +1,29 @@
+1° exploitation d'une matrice d'abondance avec les bactéries
+   en colonne et les milieux en ligne.
+2° La matrice est rentrée dans FlashWeave et ressort une edgelist
+3° Raffinage des interactions obtenues par FlashWeave via FBA a partir de la base de données de VMH (en python)
+
+L'objectif est de trouver des interactions entre les bactéries en considérant leur métabolisme
+FlashWeave permet d'éviter certains faux positifs
+
+
+2 qui se charge de get FBA et de VMH
+3 qui se charge de faire le script julia pour FlashWeave
+
+Sortie finale: le refiler a networkX pour l'exporter en Json et on l interprete avec d3.js
+peut etre faire un fichier avec ensemble des bacteries et metabolites lies
+
+Un workflow peut etre interressant avec snakemake >>>>> Quentin sait le faire
+
+IMPORTANT NOTE: For delimited and JLD2 formats, FlashWeave treats rows of the table as observations (i.e. samples) and columns as variables (i.e. OTUs or meta variables), consistent with the majority of statistical and machine-learning applications, but in contrast to several other microbiome analysis frameworks. Behavior can be switched with the transposed=true flag.
+
+
+Speach eveillard:
+slides prevoir 2h
+contexte : nb rvariables et biblio
+Methodes: temps (execution et assimilation)/calcul/memoire
+            biblio pour justifier le choix de méthode
+Strategie: % de risque, temps, originalite
+
+
+TODO: temps calculs, memoire

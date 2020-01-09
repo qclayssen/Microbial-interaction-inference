@@ -1,0 +1,12 @@
+-e lactobacillus_secaliphilus	pseudomonas_alcaligenes	no2_e,pro__L_e,ade_e,cu2_e,
+-e pseudomonas_alcaligenes	lactobacillus_secaliphilus	h2o_e,
+-e lactobacillus_zymae	nocardia_jejuensis	h2o_e,asp__L_e,
+-e nocardia_jejuensis	lactobacillus_zymae	urea_e,fum_e,
+-e xanthomonas_oryzae	lactococcus_piscium	
+-e lactococcus_piscium	xanthomonas_oryzae	nh4_e,
+-e petrimonas_mucosa	nocardia_jejuensis	h_e,nh4_e,h2o_e,
+-e nocardia_jejuensis	petrimonas_mucosa	ade_e,
+-e nitratireductor_basaltis	xanthomonas_oryzae	
+-e xanthomonas_oryzae	nitratireductor_basaltis	
+-e pseudomonas_alcaligenes	pseudomonas_alcaligenes	
+-e pseudomonas_alcaligenes	pseudomonas_alcaligenes	

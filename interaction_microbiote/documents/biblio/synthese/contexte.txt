@@ -1,0 +1,23 @@
+CONTEXTE :
+
+Inférence d'interactions microbiennes.
+
+Rapid inference of direct interactions in large-scale ecological networks from heterogeneous microbial sequencing data
+
+Les micro-organismes font partie intégrante de la biosphère. Les relations entre l'organisme humain et la santé sont donc très importantes et sont de plus en plus étudiées.
+"The microbiome appears to significantly impact both the immune system and host metabolism." "colon diseases are a particular target of initial investigations into the microbiota contributions to disease."Tuddenham S, Sears CL. The intestinal microbiome and health. Curr Opin Infect Dis. 2015;28(5):464-70. 
+
+Cet ecosystème microbien est est influencé par les facteurs environnementaux et le milieu mais aussi par de nombreux facteurs d'interactions entre les micro-organismes eux-mêmes.
+Les études métagnomiques mettent en évidence la présence et l'absence de différentes souches dans un microbiome.
+Pour ce faire, on crée des graphes de co-ocurrence des souches.
+
+Problème : l'étude de ces écosystèmes et des intercations en laboratoire est très difficile. En effet la majorité des bactéries intestinales (environnement étudié ici) sont réputées 'unculturable' la co-culture serait donc encore plus complexe.
+
+La BioInformatique permet de remédier (en partie) à ce problème grâce à des outils permettant de prédire les corrélations entre les micro organismes présents dans le microbiome. Il faut alors prendre en compte les co-ocurrences et co-abondances des bactéries ainsi que des facteurs de temporalité, d'environnement,...
+Cependant il faut également prendre en compte les interactions microbe-microbe (complémentarité métabolique)
+Pour ce faire il faut intégrer les infos contenues dans les réseaux métaboliques des bactéries via des bases de données (de plus en plus présentes grâce à l'explosion du séquençage metagénomique. ex : vmh.life).
+Nous aurons alors la possibilité d'étudier les flux métaboliques entres les différentes bactéries et ainsi de prédire les interactions via les échanges de métabolites.
+Nous pourrons alors compléter les résultats obtenus afin d'éliminer les possibles faux positifs et de préciser les co-occurrences observées en relations de causalité.
+
+
+

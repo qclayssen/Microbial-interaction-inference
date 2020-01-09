@@ -1,0 +1,16 @@
+inputs:
+    edgelist
+
+parsing edgelist ou gml pour avoir l ensemble des noeuds et des poids
+a ce niveau on a un array de dico de noeuds et un array de dico de links
+On boucle sur les ID de noeuds
+    On fait une requete sur vmh
+        on suppose qu on recupere un json avec l ensemble des metabolites et des reactions
+
+On fait tourner FBA avec en parametres: objectif du modele
+                                        reactions
+                                        metabolite
+
+Permet de valider la reaction ou non
+Permet d'oriente le lien si il existe
+On re export tout en json ou on genere direct avec networkX un graph
